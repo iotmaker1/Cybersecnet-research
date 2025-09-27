@@ -1,0 +1,6 @@
+| inputlookup cvecti_cvsstectac_mapping2.csv
+| join CVE_ID max=5
+    [ inputlookup cve-intr-dedp-202x.csv
+    ]
+| lookup tacticpercentmap.csv Tactics as Tactics output ttppercent
+| outputlookup for-spss-ingest.csv
