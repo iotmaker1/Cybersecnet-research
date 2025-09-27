@@ -1,0 +1,261 @@
+Tech#,TechName,Tactics,Matrix
+T1548,Abuse Elevation Control Mechanism,Privilege Escalation,Enterprise
+T1548,Abuse Elevation Control Mechanism,Defense Evasion,Enterprise
+T1134,Access Token Manipulation,Privilege Escalation,Enterprise
+T1134,Access Token Manipulation,Defense Evasion,Enterprise
+T1087,Account Discovery,Discovery,Enterprise
+T1098,Account Manipulation,Persistence,Enterprise
+T1098,Account Manipulation,Privilege Escalation,Enterprise
+T1583,Acquire Infrastructure,Resource Development,Enterprise
+T1595,Active Scanning,Reconnaissance,Enterprise
+T1071,Application Layer Protocol,Command and Control,Enterprise
+T1010,Application Window Discovery,Discovery,Enterprise
+T1560,Archive Collected Data,Collection,Enterprise
+T1123,Audio Capture,Collection,Enterprise
+T1119,Automated Collection,Collection,Enterprise
+T1020,Automated Exfiltration,Exfiltration,Enterprise
+T1197,BITS Jobs,Defense Evasion,Enterprise
+T1197,BITS Jobs,Persistence,Enterprise
+T1547,Boot or Logon Autostart Execution,Persistence,Enterprise
+T1547,Boot or Logon Autostart Execution,Privilege Escalation,Enterprise
+T1037,Boot or Logon Initialization Scripts,Persistence,Enterprise
+T1037,Boot or Logon Initialization Scripts,Privilege Escalation,Enterprise
+T1217,Browser Information Discovery,Discovery,Enterprise
+T1176,Browser Extensions,Persistence,Enterprise
+T1110,Brute Force,Credential Access,Enterprise
+T1612,Build Image on Host,Defense Evasion,Enterprise
+T1115,Clipboard Data,Collection,Enterprise
+T1580,Cloud Infrastructure Discovery,Discovery,Enterprise
+T1538,Cloud Service Dashboard,Discovery,Enterprise
+T1526,Cloud Service Discovery,Discovery,Enterprise
+T1619,Cloud Storage Object Discovery,Discovery,Enterprise
+T1059,Command and Scripting Interpreter,Execution,Enterprise
+T1092,Communication Through Removable Media,Command and Control,Enterprise
+T1586,Compromise Accounts,Resource Development,Enterprise
+T1554,Compromise Client Software Binary,Persistence,Enterprise
+T1584,Compromise Infrastructure,Resource Development,Enterprise
+T1609,Container Administration Command,Execution,Enterprise
+T1613,Container and Resource Discovery,Discovery,Enterprise
+T1136,Create Account,Persistence,Enterprise
+T1543,Create or Modify System Process,Persistence,Enterprise
+T1543,Create or Modify System Process,Privilege Escalation,Enterprise
+T1555,Credentials from Password Stores,Credential Access,Enterprise
+T1485,Data Destruction,Impact,Enterprise
+T1486,Data Encrypted for Impact,Impact,Enterprise
+T1565,Data Manipulation,Impact,Enterprise
+T1074,Data Staged,Collection,Enterprise
+T1213,Data from Information Repositories,Collection,Enterprise
+T1005,Data from Local System,Collection,Enterprise
+T1039,Data from Network Shared Drive,Collection,Enterprise
+T1025,Data from Removable Media,Collection,Enterprise
+T1001,Data Obfuscation,Command and Control,Enterprise
+T1530,Data from Cloud Storage Object,Collection,Enterprise
+T1140,Deobfuscate/Decode Files or Information,Defense Evasion,Enterprise
+T1610,Deploy Container,Defense Evasion,Enterprise
+T1587,Develop Capabilities,Resource Development,Enterprise
+T1482,Domain Trust Discovery,Discovery,Enterprise
+T1568,Dynamic Resolution,Command and Control,Enterprise
+T1114,Email Collection,Collection,Enterprise
+T1573,Encrypted Channel,Command and Control,Enterprise
+T1499,Endpoint Denial of Service,Impact,Enterprise
+T1611,Escape to Host,Privilege Escalation,Enterprise
+T1585,Establish Accounts,Resource Development,Enterprise
+T1546,Event Triggered Execution,Persistence,Enterprise
+T1546,Event Triggered Execution,Privilege Escalation,Enterprise
+T1041,Exfiltration Over C2 Channel,Exfiltration,Enterprise
+T1011,Exfiltration Over Other Network Medium,Exfiltration,Enterprise
+T1052,Exfiltration Over Physical Medium,Exfiltration,Enterprise
+T1567,Exfiltration Over Web Service,Exfiltration,Enterprise
+T1190,Exploit Public-Facing Application,Initial Access,Enterprise
+T1203,Exploitation for Client Execution,Execution,Enterprise
+T1212,Exploitation for Credential Access,Credential Access,Enterprise
+T1211,Exploitation for Defense Evasion,Defense Evasion,Enterprise
+T1068,Exploitation for Privilege Escalation,Privilege Escalation,Enterprise
+T1210,Exploitation of Remote Services,Lateral Movement,Enterprise
+T1133,External Remote Services,Initial Access,Enterprise
+T1133,External Remote Services,Persistence,Enterprise
+T1008,Fallback Channels,Command and Control,Enterprise
+T1083,File and Directory Discovery,Discovery,Enterprise
+T1222,File and Directory Permissions Modification,Defense Evasion,Enterprise
+T1589,Gather Victim Identity Information,Reconnaissance,Enterprise
+T1590,Gather Victim Network Information,Reconnaissance,Enterprise
+T1591,Gather Victim Org Information,Reconnaissance,Enterprise
+T1592,Gather Victim Host Information,Reconnaissance,Enterprise
+T1615,Group Policy Discovery,Discovery,Enterprise
+T1200,Hardware Additions,Initial Access,Enterprise
+T1564,Hide Artifacts,Defense Evasion,Enterprise
+T1574,Hijack Execution Flow,Persistence,Enterprise
+T1574,Hijack Execution Flow,Privilege Escalation,Enterprise
+T1574,Hijack Execution Flow,Defense Evasion,Enterprise
+T1562,Impair Defenses,Defense Evasion,Enterprise
+T1070,Indicator Removal on Host,Defense Evasion,Enterprise
+T1525,Implant Internal Image,Persistence,Enterprise
+T1105,Ingress Tool Transfer,Command and Control,Enterprise
+T1056,Input Capture,Collection,Enterprise
+T1056,Input Capture,Credential Access,Enterprise
+T1559,Inter-Process Communication,Execution,Enterprise
+T1534,Internal Spearphishing,Lateral Movement,Enterprise
+T1570,Lateral Tool Transfer,Lateral Movement,Enterprise
+T1036,Masquerading,Defense Evasion,Enterprise
+T1556,Modify Authentication Process,Credential Access,Enterprise
+T1556,Modify Authentication Process,Defense Evasion,Enterprise
+T1556,Modify Authentication Process,Persistence,Enterprise
+T1578,Modify Cloud Compute Infrastructure,Defense Evasion,Enterprise
+T1112,Modify Registry,Defense Evasion,Enterprise
+T1601,Modify System Image,Defense Evasion,Enterprise
+T1104,Multi-Stage Channels,Command and Control,Enterprise
+T1498,Network Denial of Service,Impact,Enterprise
+T1046,Network Service Scanning,Discovery,Enterprise
+T1135,Network Share Discovery,Discovery,Enterprise
+T1040,Network Sniffing,Credential Access,Enterprise
+T1040,Network Sniffing,Discovery,Enterprise
+T1095,Non-Application Layer Protocol,Command and Control,Enterprise
+T1571,Non-Standard Port,Command and Control,Enterprise
+T1027,Obfuscated Files or Information,Defense Evasion,Enterprise
+T1588,Obtain Capabilities,Resource Development,Enterprise
+T1137,Office Application Startup,Persistence,Enterprise
+T1003,OS Credential Dumping,Credential Access,Enterprise
+T1201,Password Policy Discovery,Discovery,Enterprise
+T1120,Peripheral Device Discovery,Discovery,Enterprise
+T1069,Permission Groups Discovery,Discovery,Enterprise
+T1566,Phishing,Initial Access,Enterprise
+T1598,Phishing for Information,Reconnaissance,Enterprise
+T1055,Process Injection,Defense Evasion,Enterprise
+T1055,Process Injection,Privilege Escalation,Enterprise
+T1057,Process Discovery,Discovery,Enterprise
+T1572,Protocol Tunneling,Command and Control,Enterprise
+T1090,Proxy,Command and Control,Enterprise
+T1012,Query Registry,Discovery,Enterprise
+T1219,Remote Access Software,Command and Control,Enterprise
+T1021,Remote Services,Lateral Movement,Enterprise
+T1018,Remote System Discovery,Discovery,Enterprise
+T1496,Resource Hijacking,Impact,Enterprise
+T1014,Rootkit,Defense Evasion,Enterprise
+T1053,Scheduled Task/Job,Execution,Enterprise
+T1053,Scheduled Task/Job,Persistence,Enterprise
+T1053,Scheduled Task/Job,Privilege Escalation,Enterprise
+T1029,Scheduled Transfer,Exfiltration,Enterprise
+T1113,Screen Capture,Collection,Enterprise
+T1597,Search Closed Sources of Information,Reconnaissance,Enterprise
+T1596,Search Open Technical Databases,Reconnaissance,Enterprise
+T1593,Search Open Websites/Domains,Reconnaissance,Enterprise
+T1594,Search Victim-Owned Websites,Reconnaissance,Enterprise
+T1489,Service Stop,Impact,Enterprise
+T1129,Shared Modules,Execution,Enterprise
+T1072,Software Deployment Tools,Execution,Enterprise
+T1072,Software Deployment Tools,Lateral Movement,Enterprise
+T1518,Software Discovery,Discovery,Enterprise
+T1608,Stage Capabilities,Resource Development,Enterprise
+T1528,Steal Application Access Token,Credential Access,Enterprise
+T1558,Steal or Forge Kerberos Tickets,Credential Access,Enterprise
+T1539,Steal Web Session Cookie,Credential Access,Enterprise
+T1553,Subvert Trust Controls,Defense Evasion,Enterprise
+T1195,Supply Chain Compromise,Initial Access,Enterprise
+T1082,System Information Discovery,Discovery,Enterprise
+T1016,System Network Configuration Discovery,Discovery,Enterprise
+T1049,System Network Connections Discovery,Discovery,Enterprise
+T1033,System Owner/User Discovery,Discovery,Enterprise
+T1007,System Service Discovery,Discovery,Enterprise
+T1569,System Services,Execution,Enterprise
+T1529,System Shutdown/Reboot,Impact,Enterprise
+T1080,Taint Shared Content,Lateral Movement,Enterprise
+T1221,Template Injection,Defense Evasion,Enterprise
+T1218,System Binary Proxy Execution,Defense Evasion,Enterprise
+T1216,System Script Proxy Execution,Defense Evasion,Enterprise
+T1537,Transfer Data to Cloud Account,Exfiltration,Enterprise
+T1619,Trusted Developer Utilities Proxy Execution,Defense Evasion,Enterprise
+T1535,Unused/Unsupported Cloud Regions,Defense Evasion,Enterprise
+T1550,Use Alternate Authentication Material,Defense Evasion,Enterprise
+T1550,Use Alternate Authentication Material,Lateral Movement,Enterprise
+T1204,User Execution,Execution,Enterprise
+T1078,Valid Accounts,Initial Access,Enterprise
+T1078,Valid Accounts,Persistence,Enterprise
+T1078,Valid Accounts,Privilege Escalation,Enterprise
+T1078,Valid Accounts,Defense Evasion,Enterprise
+T1125,Video Capture,Collection,Enterprise
+T1102,Web Service,Command and Control,Enterprise
+T1047,Windows Management Instrumentation,Execution,Enterprise
+T1220,XSL Script Processing,Defense Evasion,Enterprise
+T1663,Abuse Elevation Control Mechanism,Privilege Escalation,Mobile
+T1663,Abuse Elevation Control Mechanism,Defense Evasion,Mobile
+T1616,Call Control,Impact,Mobile
+T1617,Hooking,Credential Access,Mobile
+T1617,Hooking,Collection,Mobile
+T1617,Hooking,Defense Evasion,Mobile
+T1418,Application Discovery,Discovery,Mobile
+T1435,Access Calendar Entries,Collection,Mobile
+T1433,Access Call Log,Collection,Mobile
+T1432,Access Contact List,Collection,Mobile
+T1636,Protected User Data,Collection,Mobile
+T1430,Location Tracking,Collection,Mobile
+T1429,Audio Capture,Collection,Mobile
+T1512,Video Capture,Collection,Mobile
+T1412,Capture SMS Messages,Collection,Mobile
+T1414,Clip Manager,Collection,Mobile
+T1423,Network Service Scanning,Discovery,Mobile
+T1422,System Network Configuration Discovery,Discovery,Mobile
+T1421,System Network Connections Discovery,Discovery,Mobile
+T1420,File and Directory Discovery,Discovery,Mobile
+T1426,System Information Discovery,Discovery,Mobile
+T1424,Process Discovery,Discovery,Mobile
+T1425,Adversary-in-the-Middle,Collection,Mobile
+T1425,Adversary-in-the-Middle,Credential Access,Mobile
+T1417,Input Capture,Collection,Mobile
+T1417,Input Capture,Credential Access,Mobile
+T1411,Input Injection,Impact,Mobile
+T1604,Proxy Through Victim,Command and Control,Mobile
+T1603,Scheduled Task/Job,Persistence,Mobile
+T1603,Scheduled Task/Job,Privilege Escalation,Mobile
+T1603,Scheduled Task/Job,Execution,Mobile
+T1623,Command and Scripting Interpreter,Execution,Mobile
+T1628,Hide Artifacts,Defense Evasion,Mobile
+T1630,Indicator Removal on Host,Defense Evasion,Mobile
+T1629,Impair Defenses,Defense Evasion,Mobile
+T1627,Execution Guardrails,Defense Evasion,Mobile
+T1626,Abuse Elevation Control Mechanism,Privilege Escalation,Mobile
+T1626,Abuse Elevation Control Mechanism,Defense Evasion,Mobile
+T1631,Process Injection,Defense Evasion,Mobile
+T1631,Process Injection,Privilege Escalation,Mobile
+T1632,Subvert Trust Controls,Defense Evasion,Mobile
+T1633,Virtualization/Sandbox Evasion,Defense Evasion,Mobile
+T1634,System Binary Proxy Execution,Defense Evasion,Mobile
+T1635,Steal or Forge Authentication Certificates,Credential Access,Mobile
+T1637,Dynamic Resolution,Command and Control,Mobile
+T1638,Encrypted Channel,Command and Control,Mobile
+T1639,Exfiltration Over C2 Channel,Exfiltration,Mobile
+T1640,Account Access Removal,Impact,Mobile
+T1447,Delete Device Data,Impact,Mobile
+T1448,Carrier Billing Fraud,Impact,Mobile
+T1449,Lock User Out of Device,Impact,Mobile
+T1582,Gather Victim Network Information,Reconnaissance,ICS
+T1594,Search Victim-Owned Websites,Reconnaissance,ICS
+T1596,Search Open Technical Databases,Reconnaissance,ICS
+T1593,Search Open Websites/Domains,Reconnaissance,ICS
+T1588,Obtain Capabilities,Resource Development,ICS
+T1584,Compromise Infrastructure,Resource Development,ICS
+T1583,Acquire Infrastructure,Resource Development,ICS
+T1608,Stage Capabilities,Resource Development,ICS
+T1587,Develop Capabilities,Resource Development,ICS
+T1200,Hardware Additions,Initial Access,ICS
+T1190,Exploit Public-Facing Application,Initial Access,ICS
+T1566,Phishing,Initial Access,ICS
+T1078,Valid Accounts,Initial Access,ICS
+T1133,External Remote Services,Initial Access,ICS
+T1195,Supply Chain Compromise,Initial Access,ICS
+T1091,Replication Through Removable Media,Initial Access,ICS
+T1203,Exploitation for Client Execution,Execution,ICS
+T1204,User Execution,Execution,ICS
+T1059,Command and Scripting Interpreter,Execution,ICS
+T1106,Native API,Execution,ICS
+T1129,Shared Modules,Execution,ICS
+T1072,Software Deployment Tools,Execution,ICS
+T1053,Scheduled Task/Job,Execution,ICS
+T1569,System Services,Execution,ICS
+T1047,Windows Management Instrumentation,Execution,ICS
+T1559,Inter-Process Communication,Execution,ICS
+T1812,Copy from System Center,Execution,ICS
+T1871,Download New Code,Execution,ICS
+T1844,HMI Software,Execution,ICS
+T1870,Detect Operating Mode,Discovery,ICS
+T1010,Application Window Discovery,Discovery,ICS
+T1120,Peripheral Device Discovery,Discovery,ICS

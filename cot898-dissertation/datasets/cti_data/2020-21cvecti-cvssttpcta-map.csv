@@ -1,0 +1,112 @@
+CVE_ID,cvss,ttpID,Tactics,ctiscore,ctatype
+CVE-2020-10148,9.8,T1195,Initial Access,5,APT
+CVE-2019-8452,6.5,T1195,Initial Access,5,APT
+CVE-2021-26855,9.8,T1190,Initial Access,5,APT
+CVE-2021-26857,7.8,T1190,Initial Access,5,APT
+CVE-2021-26858,7.8,T1190,Initial Access,5,APT
+CVE-2021-27065,7.8,T1190,Initial Access,5,APT
+CVE-2021-44228,10,T1190,Initial Access,3,Malware
+CVE-2021-45046,9,T1190,Initial Access,3,Malware
+CVE-2020-1472,10,T1190,Initial Access,5,APT
+CVE-2021-34527,8.8,T1190,Initial Access,3,Malware
+CVE-2020-5902,9.8,T1190,Initial Access,2,Cybercrime
+CVE-2021-21972,9.8,T1190,Initial Access,5,APT
+CVE-2020-3992,9.8,T1190,Initial Access,2,Cybercrime
+CVE-2021-21985,9.8,T1190,Initial Access,5,APT
+CVE-2020-0688,8.8,T1190,Initial Access,5,APT
+CVE-2020-10148,9.8,T1566,Initial Access,5,APT
+CVE-2021-26855,9.8,T1566,Initial Access,5,APT
+CVE-2020-0674,7.5,T1203,Execution,5,APT
+CVE-2021-40444,8.8,T1203,Execution,5,APT
+CVE-2020-17087,7.8,T1203,Execution,2,Cybercrime
+CVE-2021-1675,7.8,T1203,Execution,3,Malware
+CVE-2021-44228,10,T1059,Execution,3,Malware
+CVE-2021-26855,9.8,T1059,Execution,5,APT
+CVE-2021-34527,8.8,T1059,Execution,3,Malware
+CVE-2020-5902,9.8,T1059,Execution,2,Cybercrime
+CVE-2020-1472,10,T1078,Initial Access,5,APT
+CVE-2020-1472,10,T1078,Persistence,5,APT
+CVE-2020-1472,10,T1078,Privilege Escalation,5,APT
+CVE-2020-1472,10,T1078,Defense Evasion,5,APT
+CVE-2020-1472,10,T1068,Privilege Escalation,5,APT
+CVE-2021-34527,8.8,T1068,Privilege Escalation,3,Malware
+CVE-2021-1675,7.8,T1068,Privilege Escalation,3,Malware
+CVE-2020-17087,7.8,T1068,Privilege Escalation,2,Cybercrime
+CVE-2021-31207,6.3,T1068,Privilege Escalation,5,APT
+CVE-2020-0796,10,T1068,Privilege Escalation,2,Cybercrime
+CVE-2020-1472,10,T1210,Lateral Movement,5,APT
+CVE-2021-34527,8.8,T1210,Lateral Movement,3,Malware
+CVE-2020-0796,10,T1210,Lateral Movement,2,Cybercrime
+CVE-2021-21972,9.8,T1210,Lateral Movement,5,APT
+CVE-2020-5902,9.8,T1133,Initial Access,2,Cybercrime
+CVE-2020-5902,9.8,T1133,Persistence,2,Cybercrime
+CVE-2021-21972,9.8,T1133,Initial Access,5,APT
+CVE-2021-21972,9.8,T1133,Persistence,5,APT
+CVE-2020-0796,10,T1021,Lateral Movement,2,Cybercrime
+CVE-2021-26855,9.8,T1021,Lateral Movement,5,APT
+CVE-2021-34527,8.8,T1021,Lateral Movement,3,Malware
+CVE-2021-26855,9.8,T1005,Collection,5,APT
+CVE-2020-10148,9.8,T1005,Collection,5,APT
+CVE-2021-44228,10,T1005,Collection,3,Malware
+CVE-2021-26855,9.8,T1114,Collection,5,APT
+CVE-2021-26857,7.8,T1114,Collection,5,APT
+CVE-2020-0688,8.8,T1114,Collection,5,APT
+CVE-2020-1472,10,T1087,Discovery,5,APT
+CVE-2021-26855,9.8,T1087,Discovery,5,APT
+CVE-2020-10148,9.8,T1087,Discovery,5,APT
+CVE-2021-26858,7.8,T1083,Discovery,5,APT
+CVE-2021-27065,7.8,T1083,Discovery,5,APT
+CVE-2021-44228,10,T1083,Discovery,3,Malware
+CVE-2020-10148,9.8,T1016,Discovery,5,APT
+CVE-2021-21972,9.8,T1016,Discovery,5,APT
+CVE-2021-21985,9.8,T1016,Discovery,5,APT
+CVE-2021-44228,10,T1082,Discovery,3,Malware
+CVE-2020-10148,9.8,T1082,Discovery,5,APT
+CVE-2020-5902,9.8,T1082,Discovery,2,Cybercrime
+CVE-2020-10148,9.8,T1105,Command and Control,5,APT
+CVE-2021-26855,9.8,T1105,Command and Control,5,APT
+CVE-2021-44228,10,T1105,Command and Control,3,Malware
+CVE-2020-10148,9.8,T1562,Defense Evasion,5,APT
+CVE-2021-34527,8.8,T1562,Defense Evasion,3,Malware
+CVE-2021-44228,10,T1562,Defense Evasion,3,Malware
+CVE-2020-10148,9.8,T1070,Defense Evasion,5,APT
+CVE-2021-26855,9.8,T1070,Defense Evasion,5,APT
+CVE-2021-44228,10,T1070,Defense Evasion,3,Malware
+CVE-2021-34527,8.8,T1574,Persistence,3,Malware
+CVE-2021-34527,8.8,T1574,Privilege Escalation,3,Malware
+CVE-2021-34527,8.8,T1574,Defense Evasion,3,Malware
+CVE-2021-34527,8.8,T1569,Execution,3,Malware
+CVE-2021-1675,7.8,T1569,Execution,3,Malware
+CVE-2020-17087,7.8,T1569,Execution,2,Cybercrime
+CVE-2020-17087,7.8,T1055,Privilege Escalation,2,Cybercrime
+CVE-2020-17087,7.8,T1055,Defense Evasion,2,Cybercrime
+CVE-2021-40444,8.8,T1055,Privilege Escalation,5,APT
+CVE-2021-40444,8.8,T1055,Defense Evasion,5,APT
+CVE-2020-10148,9.8,T1041,Exfiltration,5,APT
+CVE-2021-26855,9.8,T1041,Exfiltration,5,APT
+CVE-2021-44228,10,T1041,Exfiltration,3,Malware
+CVE-2020-1472,10,T1003,Credential Access,5,APT
+CVE-2021-26855,9.8,T1003,Credential Access,5,APT
+CVE-2020-10148,9.8,T1003,Credential Access,5,APT
+CVE-2020-17087,7.8,T1134,Privilege Escalation,2,Cybercrime
+CVE-2020-17087,7.8,T1134,Defense Evasion,2,Cybercrime
+CVE-2020-1472,10,T1134,Privilege Escalation,5,APT
+CVE-2020-1472,10,T1134,Defense Evasion,5,APT
+CVE-2020-0674,7.5,T1027,Defense Evasion,5,APT
+CVE-2021-40444,8.8,T1027,Defense Evasion,5,APT
+CVE-2020-10148,9.8,T1027,Defense Evasion,5,APT
+CVE-2021-40444,8.8,T1140,Defense Evasion,5,APT
+CVE-2020-0674,7.5,T1140,Defense Evasion,5,APT
+CVE-2021-44228,10,T1140,Defense Evasion,3,Malware
+CVE-2020-10148,9.8,T1071,Command and Control,5,APT
+CVE-2021-44228,10,T1071,Command and Control,3,Malware
+CVE-2021-26855,9.8,T1071,Command and Control,5,APT
+CVE-2021-34527,8.8,T1486,Impact,3,Malware
+CVE-2021-44228,10,T1486,Impact,3,Malware
+CVE-2020-5902,9.8,T1486,Impact,3,Malware
+CVE-2020-17087,7.8,T1112,Defense Evasion,2,Cybercrime
+CVE-2021-1675,7.8,T1112,Defense Evasion,3,Malware
+CVE-2021-34527,8.8,T1112,Defense Evasion,3,Malware
+CVE-2020-10148,9.8,T1036,Defense Evasion,5,APT
+CVE-2021-40444,8.8,T1036,Defense Evasion,5,APT
+CVE-2020-0674,7.5,T1036,Defense Evasion,5,APT

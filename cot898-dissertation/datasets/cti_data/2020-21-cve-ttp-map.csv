@@ -1,0 +1,112 @@
+technique_id,technique_name,tactic_id,tactic_name,cve_id,cve_description,year,source,cvss_score
+T1195,Supply Chain Compromise,TA0001,Initial Access,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1195,Supply Chain Compromise,TA0001,Initial Access,CVE-2019-8452,SolarWinds Orion Network Performance Monitor SQL Injection,2020,CISA KEV,6.5
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-26857,Microsoft Exchange Server Unified Messaging Service RCE,2021,CISA KEV,7.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-26858,Microsoft Exchange Server Post-Authentication Arbitrary File Write,2021,CISA KEV,7.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-27065,Microsoft Exchange Server Post-Authentication Arbitrary File Write,2021,CISA KEV,7.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-45046,Apache Log4j2 Deserialization of Untrusted Data,2021,CISA KEV,9.0
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2020-5902,F5 BIG-IP Traffic Management User Interface RCE,2020,CISA KEV,9.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-21972,VMware vSphere Client RCE,2021,CISA KEV,9.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2020-3992,VMware ESXi OpenSLP Heap Overflow,2020,CISA KEV,9.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2021-21985,VMware vCenter Server RCE,2021,CISA KEV,9.8
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,CVE-2020-0688,Microsoft Exchange Server Remote Code Execution,2020,CISA KEV,8.8
+T1566,Phishing,TA0001,Initial Access,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1566,Phishing,TA0001,Initial Access,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1203,Exploitation for Client Execution,TA0002,Execution,CVE-2020-0674,Internet Explorer Memory Corruption,2020,CISA KEV,7.5
+T1203,Exploitation for Client Execution,TA0002,Execution,CVE-2021-40444,Microsoft MSHTML Remote Code Execution,2021,CISA KEV,8.8
+T1203,Exploitation for Client Execution,TA0002,Execution,CVE-2020-17087,Windows Kernel Local Privilege Escalation,2020,CISA KEV,7.8
+T1203,Exploitation for Client Execution,TA0002,Execution,CVE-2021-1675,Windows Print Spooler Privilege Escalation,2021,CISA KEV,7.8
+T1059,Command and Scripting Interpreter,TA0002,Execution,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1059,Command and Scripting Interpreter,TA0002,Execution,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1059,Command and Scripting Interpreter,TA0002,Execution,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1059,Command and Scripting Interpreter,TA0002,Execution,CVE-2020-5902,F5 BIG-IP Traffic Management User Interface RCE,2020,CISA KEV,9.8
+T1078,Valid Accounts,TA0001,Initial Access,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1078,Valid Accounts,TA0003,Persistence,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1078,Valid Accounts,TA0004,Privilege Escalation,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1078,Valid Accounts,TA0005,Defense Evasion,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1068,Exploitation for Privilege Escalation,TA0004,Privilege Escalation,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1068,Exploitation for Privilege Escalation,TA0004,Privilege Escalation,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1068,Exploitation for Privilege Escalation,TA0004,Privilege Escalation,CVE-2021-1675,Windows Print Spooler Privilege Escalation,2021,CISA KEV,7.8
+T1068,Exploitation for Privilege Escalation,TA0004,Privilege Escalation,CVE-2020-17087,Windows Kernel Local Privilege Escalation,2020,CISA KEV,7.8
+T1068,Exploitation for Privilege Escalation,TA0004,Privilege Escalation,CVE-2021-31207,Microsoft Exchange Server Security Feature Bypass,2021,CISA KEV,6.3
+T1068,Exploitation for Privilege Escalation,TA0004,Privilege Escalation,CVE-2020-0796,Windows SMBv3 Client/Server Remote Code Execution (SMBGhost),2020,CISA KEV,10.0
+T1210,Exploitation of Remote Services,TA0008,Lateral Movement,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1210,Exploitation of Remote Services,TA0008,Lateral Movement,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1210,Exploitation of Remote Services,TA0008,Lateral Movement,CVE-2020-0796,Windows SMBv3 Client/Server Remote Code Execution (SMBGhost),2020,CISA KEV,10.0
+T1210,Exploitation of Remote Services,TA0008,Lateral Movement,CVE-2021-21972,VMware vSphere Client RCE,2021,CISA KEV,9.8
+T1133,External Remote Services,TA0001,Initial Access,CVE-2020-5902,F5 BIG-IP Traffic Management User Interface RCE,2020,CISA KEV,9.8
+T1133,External Remote Services,TA0003,Persistence,CVE-2020-5902,F5 BIG-IP Traffic Management User Interface RCE,2020,CISA KEV,9.8
+T1133,External Remote Services,TA0001,Initial Access,CVE-2021-21972,VMware vSphere Client RCE,2021,CISA KEV,9.8
+T1133,External Remote Services,TA0003,Persistence,CVE-2021-21972,VMware vSphere Client RCE,2021,CISA KEV,9.8
+T1021,Remote Services,TA0008,Lateral Movement,CVE-2020-0796,Windows SMBv3 Client/Server Remote Code Execution (SMBGhost),2020,CISA KEV,10.0
+T1021,Remote Services,TA0008,Lateral Movement,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1021,Remote Services,TA0008,Lateral Movement,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1005,Data from Local System,TA0009,Collection,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1005,Data from Local System,TA0009,Collection,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1005,Data from Local System,TA0009,Collection,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1114,Email Collection,TA0009,Collection,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1114,Email Collection,TA0009,Collection,CVE-2021-26857,Microsoft Exchange Server Unified Messaging Service RCE,2021,CISA KEV,7.8
+T1114,Email Collection,TA0009,Collection,CVE-2020-0688,Microsoft Exchange Server Remote Code Execution,2020,CISA KEV,8.8
+T1087,Account Discovery,TA0007,Discovery,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1087,Account Discovery,TA0007,Discovery,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1087,Account Discovery,TA0007,Discovery,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1083,File and Directory Discovery,TA0007,Discovery,CVE-2021-26858,Microsoft Exchange Server Post-Authentication Arbitrary File Write,2021,CISA KEV,7.8
+T1083,File and Directory Discovery,TA0007,Discovery,CVE-2021-27065,Microsoft Exchange Server Post-Authentication Arbitrary File Write,2021,CISA KEV,7.8
+T1083,File and Directory Discovery,TA0007,Discovery,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1016,System Network Configuration Discovery,TA0007,Discovery,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1016,System Network Configuration Discovery,TA0007,Discovery,CVE-2021-21972,VMware vSphere Client RCE,2021,CISA KEV,9.8
+T1016,System Network Configuration Discovery,TA0007,Discovery,CVE-2021-21985,VMware vCenter Server RCE,2021,CISA KEV,9.8
+T1082,System Information Discovery,TA0007,Discovery,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1082,System Information Discovery,TA0007,Discovery,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1082,System Information Discovery,TA0007,Discovery,CVE-2020-5902,F5 BIG-IP Traffic Management User Interface RCE,2020,CISA KEV,9.8
+T1105,Ingress Tool Transfer,TA0011,Command and Control,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1105,Ingress Tool Transfer,TA0011,Command and Control,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1105,Ingress Tool Transfer,TA0011,Command and Control,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1562,Impair Defenses,TA0005,Defense Evasion,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1562,Impair Defenses,TA0005,Defense Evasion,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1562,Impair Defenses,TA0005,Defense Evasion,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1070,Indicator Removal on Host,TA0005,Defense Evasion,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1070,Indicator Removal on Host,TA0005,Defense Evasion,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1070,Indicator Removal on Host,TA0005,Defense Evasion,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1574,Hijack Execution Flow,TA0003,Persistence,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1574,Hijack Execution Flow,TA0004,Privilege Escalation,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1574,Hijack Execution Flow,TA0005,Defense Evasion,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1569,System Services,TA0002,Execution,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1569,System Services,TA0002,Execution,CVE-2021-1675,Windows Print Spooler Privilege Escalation,2021,CISA KEV,7.8
+T1569,System Services,TA0002,Execution,CVE-2020-17087,Windows Kernel Local Privilege Escalation,2020,CISA KEV,7.8
+T1055,Process Injection,TA0004,Privilege Escalation,CVE-2020-17087,Windows Kernel Local Privilege Escalation,2020,CISA KEV,7.8
+T1055,Process Injection,TA0005,Defense Evasion,CVE-2020-17087,Windows Kernel Local Privilege Escalation,2020,CISA KEV,7.8
+T1055,Process Injection,TA0004,Privilege Escalation,CVE-2021-40444,Microsoft MSHTML Remote Code Execution,2021,CISA KEV,8.8
+T1055,Process Injection,TA0005,Defense Evasion,CVE-2021-40444,Microsoft MSHTML Remote Code Execution,2021,CISA KEV,8.8
+T1041,Exfiltration Over C2 Channel,TA0010,Exfiltration,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1041,Exfiltration Over C2 Channel,TA0010,Exfiltration,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1041,Exfiltration Over C2 Channel,TA0010,Exfiltration,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1003,OS Credential Dumping,TA0006,Credential Access,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1003,OS Credential Dumping,TA0006,Credential Access,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1003,OS Credential Dumping,TA0006,Credential Access,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1134,Access Token Manipulation,TA0004,Privilege Escalation,CVE-2020-17087,Windows Kernel Local Privilege Escalation,2020,CISA KEV,7.8
+T1134,Access Token Manipulation,TA0005,Defense Evasion,CVE-2020-17087,Windows Kernel Local Privilege Escalation,2020,CISA KEV,7.8
+T1134,Access Token Manipulation,TA0004,Privilege Escalation,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1134,Access Token Manipulation,TA0005,Defense Evasion,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege (Zerologon),2020,CISA KEV,10.0
+T1027,Obfuscated Files or Information,TA0005,Defense Evasion,CVE-2020-0674,Internet Explorer Memory Corruption,2020,CISA KEV,7.5
+T1027,Obfuscated Files or Information,TA0005,Defense Evasion,CVE-2021-40444,Microsoft MSHTML Remote Code Execution,2021,CISA KEV,8.8
+T1027,Obfuscated Files or Information,TA0005,Defense Evasion,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1140,Deobfuscate/Decode Files or Information,TA0005,Defense Evasion,CVE-2021-40444,Microsoft MSHTML Remote Code Execution,2021,CISA KEV,8.8
+T1140,Deobfuscate/Decode Files or Information,TA0005,Defense Evasion,CVE-2020-0674,Internet Explorer Memory Corruption,2020,CISA KEV,7.5
+T1140,Deobfuscate/Decode Files or Information,TA0005,Defense Evasion,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1071,Application Layer Protocol,TA0011,Command and Control,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1071,Application Layer Protocol,TA0011,Command and Control,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1071,Application Layer Protocol,TA0011,Command and Control,CVE-2021-26855,Microsoft Exchange Server Remote Code Execution,2021,CISA KEV,9.8
+T1486,Data Encrypted for Impact,TA0040,Impact,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1486,Data Encrypted for Impact,TA0040,Impact,CVE-2021-44228,Apache Log4j2 Remote Code Execution,2021,CISA KEV,10.0
+T1486,Data Encrypted for Impact,TA0040,Impact,CVE-2020-5902,F5 BIG-IP Traffic Management User Interface RCE,2020,CISA KEV,9.8
+T1112,Modify Registry,TA0005,Defense Evasion,CVE-2020-17087,Windows Kernel Local Privilege Escalation,2020,CISA KEV,7.8
+T1112,Modify Registry,TA0005,Defense Evasion,CVE-2021-1675,Windows Print Spooler Privilege Escalation,2021,CISA KEV,7.8
+T1112,Modify Registry,TA0005,Defense Evasion,CVE-2021-34527,Windows Print Spooler Remote Code Execution (PrintNightmare),2021,CISA KEV,8.8
+T1036,Masquerading,TA0005,Defense Evasion,CVE-2020-10148,SolarWinds Orion API Authentication Bypass,2020,CISA KEV,9.8
+T1036,Masquerading,TA0005,Defense Evasion,CVE-2021-40444,Microsoft MSHTML Remote Code Execution,2021,CISA KEV,8.8
+T1036,Masquerading,TA0005,Defense Evasion,CVE-2020-0674,Internet Explorer Memory Corruption,2020,CISA KEV,7.5

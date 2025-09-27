@@ -1,0 +1,261 @@
+Tech#,TechName,Tactic#,Tactics,Matrix,Platform
+T1548,Abuse Elevation Control Mechanism,TA0004,Privilege Escalation,Enterprise,Linux;macOS;Windows;Network;Containers
+T1548,Abuse Elevation Control Mechanism,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows;Network;Containers
+T1134,Access Token Manipulation,TA0004,Privilege Escalation,Enterprise,Windows
+T1134,Access Token Manipulation,TA0005,Defense Evasion,Enterprise,Windows
+T1087,Account Discovery,TA0007,Discovery,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1098,Account Manipulation,TA0003,Persistence,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1098,Account Manipulation,TA0004,Privilege Escalation,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1583,Acquire Infrastructure,TA0042,Resource Development,Enterprise,PRE
+T1595,Active Scanning,TA0043,Reconnaissance,Enterprise,PRE
+T1071,Application Layer Protocol,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1010,Application Window Discovery,TA0007,Discovery,Enterprise,Linux;macOS;Windows
+T1560,Archive Collected Data,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1123,Audio Capture,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1119,Automated Collection,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1020,Automated Exfiltration,TA0010,Exfiltration,Enterprise,Linux;macOS;Windows
+T1197,BITS Jobs,TA0005,Defense Evasion,Enterprise,Windows
+T1197,BITS Jobs,TA0003,Persistence,Enterprise,Windows
+T1547,Boot or Logon Autostart Execution,TA0003,Persistence,Enterprise,IaaS;Linux;macOS;Windows;Network;Containers
+T1547,Boot or Logon Autostart Execution,TA0004,Privilege Escalation,Enterprise,IaaS;Linux;macOS;Windows;Network;Containers
+T1037,Boot or Logon Initialization Scripts,TA0003,Persistence,Enterprise,Linux;macOS;Windows
+T1037,Boot or Logon Initialization Scripts,TA0004,Privilege Escalation,Enterprise,Linux;macOS;Windows
+T1217,Browser Information Discovery,TA0007,Discovery,Enterprise,Linux;macOS;Windows
+T1176,Browser Extensions,TA0003,Persistence,Enterprise,Linux;macOS;Windows
+T1110,Brute Force,TA0006,Credential Access,Enterprise,Azure AD;Containers;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1612,Build Image on Host,TA0005,Defense Evasion,Enterprise,Containers
+T1115,Clipboard Data,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1580,Cloud Infrastructure Discovery,TA0007,Discovery,Enterprise,IaaS
+T1538,Cloud Service Dashboard,TA0007,Discovery,Enterprise,Azure AD;Google Workspace;IaaS;Office 365;SaaS
+T1526,Cloud Service Discovery,TA0007,Discovery,Enterprise,Azure AD;Google Workspace;IaaS;Office 365;SaaS
+T1619,Cloud Storage Object Discovery,TA0007,Discovery,Enterprise,IaaS
+T1059,Command and Scripting Interpreter,TA0002,Execution,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows;Containers
+T1092,Communication Through Removable Media,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1586,Compromise Accounts,TA0042,Resource Development,Enterprise,PRE
+T1554,Compromise Client Software Binary,TA0003,Persistence,Enterprise,IaaS;Linux;macOS;Windows
+T1584,Compromise Infrastructure,TA0042,Resource Development,Enterprise,PRE
+T1609,Container Administration Command,TA0002,Execution,Enterprise,Containers
+T1613,Container and Resource Discovery,TA0007,Discovery,Enterprise,Containers
+T1136,Create Account,TA0003,Persistence,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows;Containers
+T1543,Create or Modify System Process,TA0003,Persistence,Enterprise,IaaS;Linux;macOS;Windows;Containers
+T1543,Create or Modify System Process,TA0004,Privilege Escalation,Enterprise,IaaS;Linux;macOS;Windows;Containers
+T1555,Credentials from Password Stores,TA0006,Credential Access,Enterprise,IaaS;Linux;macOS;Windows
+T1485,Data Destruction,TA0040,Impact,Enterprise,Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows;Containers
+T1486,Data Encrypted for Impact,TA0040,Impact,Enterprise,IaaS;Linux;macOS;Windows
+T1565,Data Manipulation,TA0040,Impact,Enterprise,Linux;macOS;Windows
+T1074,Data Staged,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1213,Data from Information Repositories,TA0009,Collection,Enterprise,Google Workspace;IaaS;Office 365;SaaS;SharePoint;Confluence;Drupal;GitLab
+T1005,Data from Local System,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1039,Data from Network Shared Drive,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1025,Data from Removable Media,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1001,Data Obfuscation,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1530,Data from Cloud Storage Object,TA0009,Collection,Enterprise,IaaS
+T1140,Deobfuscate/Decode Files or Information,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1610,Deploy Container,TA0005,Defense Evasion,Enterprise,Containers
+T1587,Develop Capabilities,TA0042,Resource Development,Enterprise,PRE
+T1482,Domain Trust Discovery,TA0007,Discovery,Enterprise,Windows;Azure AD
+T1568,Dynamic Resolution,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1114,Email Collection,TA0009,Collection,Enterprise,Google Workspace;Linux;macOS;Office 365;Windows
+T1573,Encrypted Channel,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1499,Endpoint Denial of Service,TA0040,Impact,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1611,Escape to Host,TA0004,Privilege Escalation,Enterprise,Containers
+T1585,Establish Accounts,TA0042,Resource Development,Enterprise,PRE
+T1546,Event Triggered Execution,TA0003,Persistence,Enterprise,IaaS;Linux;macOS;Windows;Office 365;SaaS
+T1546,Event Triggered Execution,TA0004,Privilege Escalation,Enterprise,IaaS;Linux;macOS;Windows;Office 365;SaaS
+T1041,Exfiltration Over C2 Channel,TA0010,Exfiltration,Enterprise,Linux;macOS;Windows
+T1011,Exfiltration Over Other Network Medium,TA0010,Exfiltration,Enterprise,Linux;macOS;Windows
+T1052,Exfiltration Over Physical Medium,TA0010,Exfiltration,Enterprise,Linux;macOS;Windows
+T1567,Exfiltration Over Web Service,TA0010,Exfiltration,Enterprise,IaaS;Linux;macOS;SaaS;Windows
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,Enterprise,Containers;IaaS;Linux;Network;Windows
+T1203,Exploitation for Client Execution,TA0002,Execution,Enterprise,Linux;macOS;Windows
+T1212,Exploitation for Credential Access,TA0006,Credential Access,Enterprise,Azure AD;IaaS;Linux;macOS;SaaS;Windows
+T1211,Exploitation for Defense Evasion,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1068,Exploitation for Privilege Escalation,TA0004,Privilege Escalation,Enterprise,Linux;macOS;Windows;Containers
+T1210,Exploitation of Remote Services,TA0008,Lateral Movement,Enterprise,Linux;macOS;Windows
+T1133,External Remote Services,TA0001,Initial Access,Enterprise,Linux;macOS;Network;Windows
+T1133,External Remote Services,TA0003,Persistence,Enterprise,Linux;macOS;Network;Windows
+T1008,Fallback Channels,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1083,File and Directory Discovery,TA0007,Discovery,Enterprise,IaaS;Linux;macOS;Windows
+T1222,File and Directory Permissions Modification,TA0005,Defense Evasion,Enterprise,IaaS;Linux;macOS;Windows
+T1589,Gather Victim Identity Information,TA0043,Reconnaissance,Enterprise,PRE
+T1590,Gather Victim Network Information,TA0043,Reconnaissance,Enterprise,PRE
+T1591,Gather Victim Org Information,TA0043,Reconnaissance,Enterprise,PRE
+T1592,Gather Victim Host Information,TA0043,Reconnaissance,Enterprise,PRE
+T1615,Group Policy Discovery,TA0007,Discovery,Enterprise,Windows
+T1200,Hardware Additions,TA0001,Initial Access,Enterprise,Linux;macOS;Windows
+T1564,Hide Artifacts,TA0005,Defense Evasion,Enterprise,Containers;Linux;macOS;Network;Windows
+T1574,Hijack Execution Flow,TA0003,Persistence,Enterprise,Linux;macOS;Windows
+T1574,Hijack Execution Flow,TA0004,Privilege Escalation,Enterprise,Linux;macOS;Windows
+T1574,Hijack Execution Flow,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1562,Impair Defenses,TA0005,Defense Evasion,Enterprise,Azure AD;Containers;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1070,Indicator Removal on Host,TA0005,Defense Evasion,Enterprise,Google Workspace;IaaS;Linux;macOS;Network;Office 365;Windows;Containers
+T1525,Implant Internal Image,TA0003,Persistence,Enterprise,IaaS
+T1105,Ingress Tool Transfer,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1056,Input Capture,TA0009,Collection,Enterprise,Linux;macOS;Windows;Network
+T1056,Input Capture,TA0006,Credential Access,Enterprise,Linux;macOS;Windows;Network
+T1559,Inter-Process Communication,TA0002,Execution,Enterprise,Linux;macOS;Windows
+T1534,Internal Spearphishing,TA0008,Lateral Movement,Enterprise,Google Workspace;Linux;macOS;Office 365;SaaS;Windows
+T1570,Lateral Tool Transfer,TA0008,Lateral Movement,Enterprise,Linux;macOS;Windows
+T1036,Masquerading,TA0005,Defense Evasion,Enterprise,Containers;Linux;macOS;Windows
+T1556,Modify Authentication Process,TA0006,Credential Access,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows;Containers
+T1556,Modify Authentication Process,TA0005,Defense Evasion,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows;Containers
+T1556,Modify Authentication Process,TA0003,Persistence,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows;Containers
+T1578,Modify Cloud Compute Infrastructure,TA0005,Defense Evasion,Enterprise,IaaS
+T1112,Modify Registry,TA0005,Defense Evasion,Enterprise,Windows
+T1601,Modify System Image,TA0005,Defense Evasion,Enterprise,Network
+T1104,Multi-Stage Channels,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1498,Network Denial of Service,TA0040,Impact,Enterprise,IaaS;Linux;macOS;Network;Windows
+T1046,Network Service Scanning,TA0007,Discovery,Enterprise,IaaS;Linux;macOS;Network;Windows
+T1135,Network Share Discovery,TA0007,Discovery,Enterprise,Linux;macOS;Windows
+T1040,Network Sniffing,TA0006,Credential Access,Enterprise,Linux;macOS;Network;Windows
+T1040,Network Sniffing,TA0007,Discovery,Enterprise,Linux;macOS;Network;Windows
+T1095,Non-Application Layer Protocol,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1571,Non-Standard Port,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1027,Obfuscated Files or Information,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1588,Obtain Capabilities,TA0042,Resource Development,Enterprise,PRE
+T1137,Office Application Startup,TA0003,Persistence,Enterprise,Office 365;Windows
+T1003,OS Credential Dumping,TA0006,Credential Access,Enterprise,Azure AD;IaaS;Linux;macOS;Network;Windows
+T1201,Password Policy Discovery,TA0007,Discovery,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Office 365;SaaS;Windows
+T1120,Peripheral Device Discovery,TA0007,Discovery,Enterprise,Linux;macOS;Windows
+T1069,Permission Groups Discovery,TA0007,Discovery,Enterprise,Azure AD;Google Workspace;IaaS;Linux;macOS;Office 365;SaaS;Windows
+T1566,Phishing,TA0001,Initial Access,Enterprise,Google Workspace;IaaS;Linux;macOS;Office 365;SaaS;Windows
+T1598,Phishing for Information,TA0043,Reconnaissance,Enterprise,PRE
+T1055,Process Injection,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1055,Process Injection,TA0004,Privilege Escalation,Enterprise,Linux;macOS;Windows
+T1057,Process Discovery,TA0007,Discovery,Enterprise,IaaS;Linux;macOS;Windows
+T1572,Protocol Tunneling,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1090,Proxy,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1012,Query Registry,TA0007,Discovery,Enterprise,Windows
+T1219,Remote Access Software,TA0011,Command and Control,Enterprise,IaaS;Linux;macOS;Windows
+T1021,Remote Services,TA0008,Lateral Movement,Enterprise,IaaS;Linux;macOS;Windows
+T1018,Remote System Discovery,TA0007,Discovery,Enterprise,IaaS;Linux;macOS;Windows
+T1496,Resource Hijacking,TA0040,Impact,Enterprise,IaaS;Linux;macOS;Windows;Containers
+T1014,Rootkit,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1053,Scheduled Task/Job,TA0002,Execution,Enterprise,Containers;Google Workspace;IaaS;Linux;macOS;Office 365;Windows
+T1053,Scheduled Task/Job,TA0003,Persistence,Enterprise,Containers;Google Workspace;IaaS;Linux;macOS;Office 365;Windows
+T1053,Scheduled Task/Job,TA0004,Privilege Escalation,Enterprise,Containers;Google Workspace;IaaS;Linux;macOS;Office 365;Windows
+T1029,Scheduled Transfer,TA0010,Exfiltration,Enterprise,Linux;macOS;Windows
+T1113,Screen Capture,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1597,Search Closed Sources of Information,TA0043,Reconnaissance,Enterprise,PRE
+T1596,Search Open Technical Databases,TA0043,Reconnaissance,Enterprise,PRE
+T1593,Search Open Websites/Domains,TA0043,Reconnaissance,Enterprise,PRE
+T1594,Search Victim-Owned Websites,TA0043,Reconnaissance,Enterprise,PRE
+T1489,Service Stop,TA0040,Impact,Enterprise,Linux;macOS;Windows
+T1129,Shared Modules,TA0002,Execution,Enterprise,Linux;macOS;Windows
+T1072,Software Deployment Tools,TA0002,Execution,Enterprise,IaaS;Linux;macOS;Network;Windows
+T1072,Software Deployment Tools,TA0008,Lateral Movement,Enterprise,IaaS;Linux;macOS;Network;Windows
+T1518,Software Discovery,TA0007,Discovery,Enterprise,IaaS;Linux;macOS;Windows
+T1608,Stage Capabilities,TA0042,Resource Development,Enterprise,PRE
+T1528,Steal Application Access Token,TA0006,Credential Access,Enterprise,Azure AD;Google Workspace;Office 365;SaaS
+T1558,Steal or Forge Kerberos Tickets,TA0006,Credential Access,Enterprise,Windows
+T1539,Steal Web Session Cookie,TA0006,Credential Access,Enterprise,Google Workspace;IaaS;Linux;macOS;Office 365;SaaS;Windows
+T1553,Subvert Trust Controls,TA0005,Defense Evasion,Enterprise,IaaS;Linux;macOS;Windows
+T1195,Supply Chain Compromise,TA0001,Initial Access,Enterprise,IaaS;Linux;macOS;Windows
+T1082,System Information Discovery,TA0007,Discovery,Enterprise,IaaS;Linux;macOS;Windows
+T1016,System Network Configuration Discovery,TA0007,Discovery,Enterprise,IaaS;Linux;macOS;Network;Windows
+T1049,System Network Connections Discovery,TA0007,Discovery,Enterprise,Linux;macOS;Windows
+T1033,System Owner/User Discovery,TA0007,Discovery,Enterprise,Linux;macOS;Windows
+T1007,System Service Discovery,TA0007,Discovery,Enterprise,Linux;macOS;Windows
+T1569,System Services,TA0002,Execution,Enterprise,Linux;macOS;Windows
+T1529,System Shutdown/Reboot,TA0040,Impact,Enterprise,Linux;macOS;Windows
+T1080,Taint Shared Content,TA0008,Lateral Movement,Enterprise,Linux;macOS;Windows
+T1221,Template Injection,TA0005,Defense Evasion,Enterprise,Windows
+T1218,System Binary Proxy Execution,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1216,System Script Proxy Execution,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1537,Transfer Data to Cloud Account,TA0010,Exfiltration,Enterprise,Google Workspace;IaaS;Office 365;SaaS
+T1619,Trusted Developer Utilities Proxy Execution,TA0005,Defense Evasion,Enterprise,Linux;macOS;Windows
+T1535,Unused/Unsupported Cloud Regions,TA0005,Defense Evasion,Enterprise,IaaS
+T1550,Use Alternate Authentication Material,TA0005,Defense Evasion,Enterprise,Azure AD;Google Workspace;IaaS;Office 365;SaaS;Windows
+T1550,Use Alternate Authentication Material,TA0008,Lateral Movement,Enterprise,Azure AD;Google Workspace;IaaS;Office 365;SaaS;Windows
+T1204,User Execution,TA0002,Execution,Enterprise,IaaS;Linux;macOS;Windows;Containers
+T1078,Valid Accounts,TA0001,Initial Access,Enterprise,Azure AD;Containers;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1078,Valid Accounts,TA0003,Persistence,Enterprise,Azure AD;Containers;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1078,Valid Accounts,TA0004,Privilege Escalation,Enterprise,Azure AD;Containers;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1078,Valid Accounts,TA0005,Defense Evasion,Enterprise,Azure AD;Containers;Google Workspace;IaaS;Linux;macOS;Network;Office 365;SaaS;Windows
+T1125,Video Capture,TA0009,Collection,Enterprise,Linux;macOS;Windows
+T1102,Web Service,TA0011,Command and Control,Enterprise,Linux;macOS;Windows
+T1047,Windows Management Instrumentation,TA0002,Execution,Enterprise,Windows
+T1220,XSL Script Processing,TA0005,Defense Evasion,Enterprise,Windows
+T1663,Abuse Elevation Control Mechanism,TA0004,Privilege Escalation,Mobile,Android
+T1663,Abuse Elevation Control Mechanism,TA0005,Defense Evasion,Mobile,Android
+T1616,Call Control,TA0040,Impact,Mobile,Android;iOS
+T1617,Hooking,TA0006,Credential Access,Mobile,Android;iOS
+T1617,Hooking,TA0009,Collection,Mobile,Android;iOS
+T1617,Hooking,TA0005,Defense Evasion,Mobile,Android;iOS
+T1418,Application Discovery,TA0007,Discovery,Mobile,Android;iOS
+T1435,Access Calendar Entries,TA0009,Collection,Mobile,Android;iOS
+T1433,Access Call Log,TA0009,Collection,Mobile,Android;iOS
+T1432,Access Contact List,TA0009,Collection,Mobile,Android;iOS
+T1636,Protected User Data,TA0009,Collection,Mobile,Android;iOS
+T1430,Location Tracking,TA0009,Collection,Mobile,Android;iOS
+T1429,Audio Capture,TA0009,Collection,Mobile,Android;iOS
+T1512,Video Capture,TA0009,Collection,Mobile,Android;iOS
+T1412,Capture SMS Messages,TA0009,Collection,Mobile,Android;iOS
+T1414,Clip Manager,TA0009,Collection,Mobile,Android;iOS
+T1423,Network Service Scanning,TA0007,Discovery,Mobile,Android;iOS
+T1422,System Network Configuration Discovery,TA0007,Discovery,Mobile,Android;iOS
+T1421,System Network Connections Discovery,TA0007,Discovery,Mobile,Android;iOS
+T1420,File and Directory Discovery,TA0007,Discovery,Mobile,Android;iOS
+T1426,System Information Discovery,TA0007,Discovery,Mobile,Android;iOS
+T1424,Process Discovery,TA0007,Discovery,Mobile,Android;iOS
+T1425,Adversary-in-the-Middle,TA0009,Collection,Mobile,Android;iOS
+T1425,Adversary-in-the-Middle,TA0006,Credential Access,Mobile,Android;iOS
+T1417,Input Capture,TA0009,Collection,Mobile,Android;iOS
+T1417,Input Capture,TA0006,Credential Access,Mobile,Android;iOS
+T1411,Input Injection,TA0040,Impact,Mobile,Android;iOS
+T1604,Proxy Through Victim,TA0011,Command and Control,Mobile,Android;iOS
+T1603,Scheduled Task/Job,TA0003,Persistence,Mobile,Android;iOS
+T1603,Scheduled Task/Job,TA0004,Privilege Escalation,Mobile,Android;iOS
+T1603,Scheduled Task/Job,TA0002,Execution,Mobile,Android;iOS
+T1623,Command and Scripting Interpreter,TA0002,Execution,Mobile,Android;iOS
+T1628,Hide Artifacts,TA0005,Defense Evasion,Mobile,Android;iOS
+T1630,Indicator Removal on Host,TA0005,Defense Evasion,Mobile,Android;iOS
+T1629,Impair Defenses,TA0005,Defense Evasion,Mobile,Android;iOS
+T1627,Execution Guardrails,TA0005,Defense Evasion,Mobile,Android;iOS
+T1626,Abuse Elevation Control Mechanism,TA0004,Privilege Escalation,Mobile,Android;iOS
+T1626,Abuse Elevation Control Mechanism,TA0005,Defense Evasion,Mobile,Android;iOS
+T1631,Process Injection,TA0005,Defense Evasion,Mobile,Android;iOS
+T1631,Process Injection,TA0004,Privilege Escalation,Mobile,Android;iOS
+T1632,Subvert Trust Controls,TA0005,Defense Evasion,Mobile,Android;iOS
+T1633,Virtualization/Sandbox Evasion,TA0005,Defense Evasion,Mobile,Android;iOS
+T1634,System Binary Proxy Execution,TA0005,Defense Evasion,Mobile,Android;iOS
+T1635,Steal or Forge Authentication Certificates,TA0006,Credential Access,Mobile,Android;iOS
+T1637,Dynamic Resolution,TA0011,Command and Control,Mobile,Android;iOS
+T1638,Encrypted Channel,TA0011,Command and Control,Mobile,Android;iOS
+T1639,Exfiltration Over C2 Channel,TA0010,Exfiltration,Mobile,Android;iOS
+T1640,Account Access Removal,TA0040,Impact,Mobile,Android;iOS
+T1447,Delete Device Data,TA0040,Impact,Mobile,Android;iOS
+T1448,Carrier Billing Fraud,TA0040,Impact,Mobile,Android;iOS
+T1449,Lock User Out of Device,TA0040,Impact,Mobile,Android;iOS
+T1582,Gather Victim Network Information,TA0043,Reconnaissance,ICS,PRE
+T1594,Search Victim-Owned Websites,TA0043,Reconnaissance,ICS,PRE
+T1596,Search Open Technical Databases,TA0043,Reconnaissance,ICS,PRE
+T1593,Search Open Websites/Domains,TA0043,Reconnaissance,ICS,PRE
+T1588,Obtain Capabilities,TA0042,Resource Development,ICS,PRE
+T1584,Compromise Infrastructure,TA0042,Resource Development,ICS,PRE
+T1583,Acquire Infrastructure,TA0042,Resource Development,ICS,PRE
+T1608,Stage Capabilities,TA0042,Resource Development,ICS,PRE
+T1587,Develop Capabilities,TA0042,Resource Development,ICS,PRE
+T1200,Hardware Additions,TA0001,Initial Access,ICS,Windows;Engineering Workstation;Human-Machine Interface;Control Server;Input/Output Server;Safety Instrumented System/Protection Relay;Field Controller/RTU/PLC/IED
+T1190,Exploit Public-Facing Application,TA0001,Initial Access,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1566,Phishing,TA0001,Initial Access,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1078,Valid Accounts,TA0001,Initial Access,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server;Safety Instrumented System/Protection Relay;Field Controller/RTU/PLC/IED
+T1133,External Remote Services,TA0001,Initial Access,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1195,Supply Chain Compromise,TA0001,Initial Access,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server;Safety Instrumented System/Protection Relay;Field Controller/RTU/PLC/IED
+T1091,Replication Through Removable Media,TA0001,Initial Access,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server;Field Controller/RTU/PLC/IED
+T1203,Exploitation for Client Execution,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1204,User Execution,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1059,Command and Scripting Interpreter,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1106,Native API,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server;Field Controller/RTU/PLC/IED
+T1129,Shared Modules,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1072,Software Deployment Tools,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1053,Scheduled Task/Job,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server;Field Controller/RTU/PLC/IED
+T1569,System Services,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1047,Windows Management Instrumentation,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1559,Inter-Process Communication,TA0002,Execution,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1812,Copy from System Center,TA0002,Execution,ICS,Field Controller/RTU/PLC/IED
+T1871,Download New Code,TA0002,Execution,ICS,Safety Instrumented System/Protection Relay;Field Controller/RTU/PLC/IED
+T1844,HMI Software,TA0002,Execution,ICS,Human-Machine Interface
+T1870,Detect Operating Mode,TA0007,Discovery,ICS,Safety Instrumented System/Protection Relay;Field Controller/RTU/PLC/IED
+T1010,Application Window Discovery,TA0007,Discovery,ICS,Windows;Engineering Workstation;Human-Machine Interface;Data Historian;Control Server;Input/Output Server
+T1120,Peripheral Device Discovery,TA0007,Discovery,ICS,Windows;Engineering Workstation;Human-Machine Interface;Control Server;Input

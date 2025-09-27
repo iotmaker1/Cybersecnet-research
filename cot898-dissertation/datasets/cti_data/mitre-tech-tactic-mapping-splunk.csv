@@ -1,0 +1,464 @@
+Tech#,Tactics,Matrix
+T1548,Privilege Escalation,Enterprise
+T1548,Defense Evasion,Enterprise
+T1134,Privilege Escalation,Enterprise
+T1134,Defense Evasion,Enterprise
+T1087,Discovery,Enterprise
+T1098,Persistence,Enterprise
+T1098,Privilege Escalation,Enterprise
+T1583,Resource Development,Enterprise
+T1595,Reconnaissance,Enterprise
+T1071,Command and Control,Enterprise
+T1010,Discovery,Enterprise
+T1560,Collection,Enterprise
+T1123,Collection,Enterprise
+T1119,Collection,Enterprise
+T1020,Exfiltration,Enterprise
+T1197,Defense Evasion,Enterprise
+T1197,Persistence,Enterprise
+T1547,Persistence,Enterprise
+T1547,Privilege Escalation,Enterprise
+T1037,Persistence,Enterprise
+T1037,Privilege Escalation,Enterprise
+T1217,Discovery,Enterprise
+T1176,Persistence,Enterprise
+T1110,Credential Access,Enterprise
+T1612,Defense Evasion,Enterprise
+T1115,Collection,Enterprise
+T1580,Discovery,Enterprise
+T1538,Discovery,Enterprise
+T1526,Discovery,Enterprise
+T1619,Discovery,Enterprise
+T1059,Execution,Enterprise
+T1092,Command and Control,Enterprise
+T1586,Resource Development,Enterprise
+T1554,Persistence,Enterprise
+T1584,Resource Development,Enterprise
+T1609,Execution,Enterprise
+T1613,Discovery,Enterprise
+T1136,Persistence,Enterprise
+T1543,Persistence,Enterprise
+T1543,Privilege Escalation,Enterprise
+T1555,Credential Access,Enterprise
+T1485,Impact,Enterprise
+T1486,Impact,Enterprise
+T1565,Impact,Enterprise
+T1074,Collection,Enterprise
+T1213,Collection,Enterprise
+T1005,Collection,Enterprise
+T1039,Collection,Enterprise
+T1025,Collection,Enterprise
+T1001,Command and Control,Enterprise
+T1530,Collection,Enterprise
+T1140,Defense Evasion,Enterprise
+T1610,Defense Evasion,Enterprise
+T1587,Resource Development,Enterprise
+T1482,Discovery,Enterprise
+T1568,Command and Control,Enterprise
+T1114,Collection,Enterprise
+T1573,Command and Control,Enterprise
+T1499,Impact,Enterprise
+T1611,Privilege Escalation,Enterprise
+T1585,Resource Development,Enterprise
+T1546,Persistence,Enterprise
+T1546,Privilege Escalation,Enterprise
+T1041,Exfiltration,Enterprise
+T1011,Exfiltration,Enterprise
+T1052,Exfiltration,Enterprise
+T1567,Exfiltration,Enterprise
+T1190,Initial Access,Enterprise
+T1203,Execution,Enterprise
+T1212,Credential Access,Enterprise
+T1211,Defense Evasion,Enterprise
+T1068,Privilege Escalation,Enterprise
+T1210,Lateral Movement,Enterprise
+T1133,Initial Access,Enterprise
+T1133,Persistence,Enterprise
+T1008,Command and Control,Enterprise
+T1083,Discovery,Enterprise
+T1222,Defense Evasion,Enterprise
+T1589,Reconnaissance,Enterprise
+T1590,Reconnaissance,Enterprise
+T1591,Reconnaissance,Enterprise
+T1592,Reconnaissance,Enterprise
+T1615,Discovery,Enterprise
+T1200,Initial Access,Enterprise
+T1564,Defense Evasion,Enterprise
+T1574,Persistence,Enterprise
+T1574,Privilege Escalation,Enterprise
+T1574,Defense Evasion,Enterprise
+T1562,Defense Evasion,Enterprise
+T1070,Defense Evasion,Enterprise
+T1525,Persistence,Enterprise
+T1105,Command and Control,Enterprise
+T1056,Collection,Enterprise
+T1056,Credential Access,Enterprise
+T1559,Execution,Enterprise
+T1534,Lateral Movement,Enterprise
+T1570,Lateral Movement,Enterprise
+T1036,Defense Evasion,Enterprise
+T1556,Credential Access,Enterprise
+T1556,Defense Evasion,Enterprise
+T1556,Persistence,Enterprise
+T1578,Defense Evasion,Enterprise
+T1112,Defense Evasion,Enterprise
+T1601,Defense Evasion,Enterprise
+T1104,Command and Control,Enterprise
+T1498,Impact,Enterprise
+T1046,Discovery,Enterprise
+T1135,Discovery,Enterprise
+T1040,Credential Access,Enterprise
+T1040,Discovery,Enterprise
+T1095,Command and Control,Enterprise
+T1571,Command and Control,Enterprise
+T1027,Defense Evasion,Enterprise
+T1588,Resource Development,Enterprise
+T1137,Persistence,Enterprise
+T1003,Credential Access,Enterprise
+T1201,Discovery,Enterprise
+T1120,Discovery,Enterprise
+T1069,Discovery,Enterprise
+T1566,Initial Access,Enterprise
+T1598,Reconnaissance,Enterprise
+T1055,Defense Evasion,Enterprise
+T1055,Privilege Escalation,Enterprise
+T1057,Discovery,Enterprise
+T1572,Command and Control,Enterprise
+T1090,Command and Control,Enterprise
+T1012,Discovery,Enterprise
+T1219,Command and Control,Enterprise
+T1021,Lateral Movement,Enterprise
+T1018,Discovery,Enterprise
+T1496,Impact,Enterprise
+T1014,Defense Evasion,Enterprise
+T1053,Execution,Enterprise
+T1053,Persistence,Enterprise
+T1053,Privilege Escalation,Enterprise
+T1029,Exfiltration,Enterprise
+T1113,Collection,Enterprise
+T1597,Reconnaissance,Enterprise
+T1596,Reconnaissance,Enterprise
+T1593,Reconnaissance,Enterprise
+T1594,Reconnaissance,Enterprise
+T1489,Impact,Enterprise
+T1129,Execution,Enterprise
+T1072,Execution,Enterprise
+T1072,Lateral Movement,Enterprise
+T1518,Discovery,Enterprise
+T1608,Resource Development,Enterprise
+T1528,Credential Access,Enterprise
+T1558,Credential Access,Enterprise
+T1539,Credential Access,Enterprise
+T1553,Defense Evasion,Enterprise
+T1195,Initial Access,Enterprise
+T1082,Discovery,Enterprise
+T1016,Discovery,Enterprise
+T1049,Discovery,Enterprise
+T1033,Discovery,Enterprise
+T1007,Discovery,Enterprise
+T1569,Execution,Enterprise
+T1529,Impact,Enterprise
+T1080,Lateral Movement,Enterprise
+T1221,Defense Evasion,Enterprise
+T1218,Defense Evasion,Enterprise
+T1216,Defense Evasion,Enterprise
+T1537,Exfiltration,Enterprise
+T1619,Defense Evasion,Enterprise
+T1535,Defense Evasion,Enterprise
+T1550,Defense Evasion,Enterprise
+T1550,Lateral Movement,Enterprise
+T1204,Execution,Enterprise
+T1078,Initial Access,Enterprise
+T1078,Persistence,Enterprise
+T1078,Privilege Escalation,Enterprise
+T1078,Defense Evasion,Enterprise
+T1125,Collection,Enterprise
+T1102,Command and Control,Enterprise
+T1047,Execution,Enterprise
+T1220,Defense Evasion,Enterprise
+T1663,Privilege Escalation,Mobile
+T1663,Defense Evasion,Mobile
+T1616,Impact,Mobile
+T1617,Credential Access,Mobile
+T1617,Collection,Mobile
+T1617,Defense Evasion,Mobile
+T1418,Discovery,Mobile
+T1435,Collection,Mobile
+T1433,Collection,Mobile
+T1432,Collection,Mobile
+T1636,Collection,Mobile
+T1430,Collection,Mobile
+T1429,Collection,Mobile
+T1512,Collection,Mobile
+T1412,Collection,Mobile
+T1414,Collection,Mobile
+T1423,Discovery,Mobile
+T1422,Discovery,Mobile
+T1421,Discovery,Mobile
+T1420,Discovery,Mobile
+T1426,Discovery,Mobile
+T1424,Discovery,Mobile
+T1425,Collection,Mobile
+T1425,Credential Access,Mobile
+T1417,Collection,Mobile
+T1417,Credential Access,Mobile
+T1411,Impact,Mobile
+T1604,Command and Control,Mobile
+T1603,Persistence,Mobile
+T1603,Privilege Escalation,Mobile
+T1603,Execution,Mobile
+T1623,Execution,Mobile
+T1628,Defense Evasion,Mobile
+T1630,Defense Evasion,Mobile
+T1629,Defense Evasion,Mobile
+T1627,Defense Evasion,Mobile
+T1626,Privilege Escalation,Mobile
+T1626,Defense Evasion,Mobile
+T1631,Defense Evasion,Mobile
+T1631,Privilege Escalation,Mobile
+T1632,Defense Evasion,Mobile
+T1633,Defense Evasion,Mobile
+T1634,Defense Evasion,Mobile
+T1635,Credential Access,Mobile
+T1637,Command and Control,Mobile
+T1638,Command and Control,Mobile
+T1639,Exfiltration,Mobile
+T1640,Impact,Mobile
+T1447,Impact,Mobile
+T1448,Impact,Mobile
+T1449,Impact,Mobile
+T1582,Reconnaissance,ICS
+T1594,Reconnaissance,ICS
+T1596,Reconnaissance,ICS
+T1593,Reconnaissance,ICS
+T1588,Resource Development,ICS
+T1584,Resource Development,ICS
+T1583,Resource Development,ICS
+T1608,Resource Development,ICS
+T1587,Resource Development,ICS
+T1200,Initial Access,ICS
+T1190,Initial Access,ICS
+T1566,Initial Access,ICS
+T1078,Initial Access,ICS
+T1133,Initial Access,ICS
+T1195,Initial Access,ICS
+T1091,Initial Access,ICS
+T1203,Execution,ICS
+T1204,Execution,ICS
+T1059,Execution,ICS
+T1106,Execution,ICS
+T1129,Execution,ICS
+T1072,Execution,ICS
+T1053,Execution,ICS
+T1569,Execution,ICS
+T1047,Execution,ICS
+T1559,Execution,ICS
+T1812,Execution,ICS
+T1871,Execution,ICS
+T1844,Execution,ICS
+T1870,Discovery,ICS
+T1010,Discovery,ICS
+T1120,Discovery,ICS
+T1001,Command and Control,Enterprise
+T1003,Credential Access,Enterprise
+T1005,Collection,Enterprise
+T1006,Defense Evasion,Enterprise
+T1007,Discovery,Enterprise
+T1008,Command and Control,Enterprise
+T1010,Discovery,Enterprise
+T1011,Exfiltration,Enterprise
+T1012,Discovery,Enterprise
+T1014,Defense Evasion,Enterprise
+T1016,Discovery,Enterprise
+T1018,Discovery,Enterprise
+T1020,Exfiltration,Enterprise
+T1021,Lateral Movement,Enterprise
+T1025,Collection,Enterprise
+T1027,Defense Evasion,Enterprise
+T1029,Exfiltration,Enterprise
+T1030,Exfiltration,Enterprise
+T1033,Discovery,Enterprise
+T1036,Defense Evasion,Enterprise
+T1037,"Persistence, Privilege Escalation",Enterprise
+T1039,Collection,Enterprise
+T1040,"Credential Access, Discovery",Enterprise
+T1041,Exfiltration,Enterprise
+T1046,Discovery,Enterprise
+T1047,Execution,Enterprise
+T1048,Exfiltration,Enterprise
+T1049,Discovery,Enterprise
+T1052,Exfiltration,Enterprise
+T1053,"Execution, Persistence, Privilege Escalation",Enterprise
+T1055,"Defense Evasion, Privilege Escalation",Enterprise
+T1056,"Collection, Credential Access",Enterprise
+T1057,Discovery,Enterprise
+T1059,Execution,Enterprise
+T1068,Privilege Escalation,Enterprise
+T1069,Discovery,Enterprise
+T1070,Defense Evasion,Enterprise
+T1071,Command and Control,Enterprise
+T1072,"Execution, Lateral Movement",Enterprise
+T1074,Collection,Enterprise
+T1078,"Defense Evasion, Initial Access, Persistence, Privilege Escalation",Enterprise
+T1080,Lateral Movement,Enterprise
+T1082,Discovery,Enterprise
+T1083,Discovery,Enterprise
+T1087,Discovery,Enterprise
+T1090,Command and Control,Enterprise
+T1091,"Initial Access, Lateral Movement",Enterprise
+T1092,Command and Control,Enterprise
+T1095,Command and Control,Enterprise
+T1098,"Persistence, Privilege Escalation",Enterprise
+T1102,Command and Control,Enterprise
+T1104,Command and Control,Enterprise
+T1105,Command and Control,Enterprise
+T1106,Execution,Enterprise
+T1110,Credential Access,Enterprise
+T1111,Credential Access,Enterprise
+T1112,Defense Evasion,Enterprise
+T1113,Collection,Enterprise
+T1114,Collection,Enterprise
+T1115,Collection,Enterprise
+T1119,Collection,Enterprise
+T1120,Discovery,Enterprise
+T1123,Collection,Enterprise
+T1124,Discovery,Enterprise
+T1125,Collection,Enterprise
+T1127,Defense Evasion,Enterprise
+T1129,Execution,Enterprise
+T1132,Command and Control,Enterprise
+T1133,"Initial Access, Persistence",Enterprise
+T1134,"Defense Evasion, Privilege Escalation",Enterprise
+T1135,Discovery,Enterprise
+T1136,Persistence,Enterprise
+T1137,Persistence,Enterprise
+T1140,Defense Evasion,Enterprise
+T1176,Persistence,Enterprise
+T1185,Collection,Enterprise
+T1187,Credential Access,Enterprise
+T1189,Initial Access,Enterprise
+T1190,Initial Access,Enterprise
+T1195,Initial Access,Enterprise
+T1197,"Defense Evasion, Persistence",Enterprise
+T1199,Initial Access,Enterprise
+T1200,Initial Access,Enterprise
+T1201,Discovery,Enterprise
+T1202,Defense Evasion,Enterprise
+T1203,Execution,Enterprise
+T1204,Execution,Enterprise
+T1205,"Command and Control, Defense Evasion, Persistence",Enterprise
+T1207,Defense Evasion,Enterprise
+T1210,Lateral Movement,Enterprise
+T1211,Defense Evasion,Enterprise
+T1212,Credential Access,Enterprise
+T1213,Collection,Enterprise
+T1216,Defense Evasion,Enterprise
+T1217,Discovery,Enterprise
+T1218,Defense Evasion,Enterprise
+T1219,Command and Control,Enterprise
+T1220,Defense Evasion,Enterprise
+T1221,Defense Evasion,Enterprise
+T1222,Defense Evasion,Enterprise
+T1480,Defense Evasion,Enterprise
+T1482,Discovery,Enterprise
+T1484,"Defense Evasion, Privilege Escalation",Enterprise
+T1485,Impact,Enterprise
+T1486,Impact,Enterprise
+T1489,Impact,Enterprise
+T1490,Impact,Enterprise
+T1491,Impact,Enterprise
+T1495,Impact,Enterprise
+T1496,Impact,Enterprise
+T1497,"Defense Evasion, Discovery",Enterprise
+T1498,Impact,Enterprise
+T1499,Impact,Enterprise
+T1505,Persistence,Enterprise
+T1518,Discovery,Enterprise
+T1525,Persistence,Enterprise
+T1526,Discovery,Enterprise
+T1528,Credential Access,Enterprise
+T1529,Impact,Enterprise
+T1530,Collection,Enterprise
+T1531,Impact,Enterprise
+T1534,Lateral Movement,Enterprise
+T1535,Defense Evasion,Enterprise
+T1537,Exfiltration,Enterprise
+T1538,Discovery,Enterprise
+T1539,Credential Access,Enterprise
+T1542,"Defense Evasion, Persistence",Enterprise
+T1543,"Persistence, Privilege Escalation",Enterprise
+T1546,"Persistence, Privilege Escalation",Enterprise
+T1547,"Persistence, Privilege Escalation",Enterprise
+T1548,"Defense Evasion, Privilege Escalation",Enterprise
+T1550,"Defense Evasion, Lateral Movement",Enterprise
+T1552,Credential Access,Enterprise
+T1553,Defense Evasion,Enterprise
+T1554,Persistence,Enterprise
+T1555,Credential Access,Enterprise
+T1556,"Credential Access, Defense Evasion, Persistence",Enterprise
+T1557,"Collection, Credential Access",Enterprise
+T1558,Credential Access,Enterprise
+T1559,Execution,Enterprise
+T1560,Collection,Enterprise
+T1561,Impact,Enterprise
+T1562,Defense Evasion,Enterprise
+T1563,Lateral Movement,Enterprise
+T1564,Defense Evasion,Enterprise
+T1565,Impact,Enterprise
+T1566,Initial Access,Enterprise
+T1567,Exfiltration,Enterprise
+T1568,Command and Control,Enterprise
+T1569,Execution,Enterprise
+T1570,Lateral Movement,Enterprise
+T1571,Command and Control,Enterprise
+T1572,Command and Control,Enterprise
+T1573,Command and Control,Enterprise
+T1574,"Defense Evasion, Persistence, Privilege Escalation",Enterprise
+T1578,Defense Evasion,Enterprise
+T1580,Discovery,Enterprise
+T1583,Resource Development,Enterprise
+T1584,Resource Development,Enterprise
+T1585,Resource Development,Enterprise
+T1586,Resource Development,Enterprise
+T1587,Resource Development,Enterprise
+T1588,Resource Development,Enterprise
+T1589,Reconnaissance,Enterprise
+T1590,Reconnaissance,Enterprise
+T1591,Reconnaissance,Enterprise
+T1592,Reconnaissance,Enterprise
+T1593,Reconnaissance,Enterprise
+T1594,Reconnaissance,Enterprise
+T1595,Reconnaissance,Enterprise
+T1596,Reconnaissance,Enterprise
+T1597,Reconnaissance,Enterprise
+T1598,Reconnaissance,Enterprise
+T1599,Defense Evasion,Enterprise
+T1600,Defense Evasion,Enterprise
+T1601,Defense Evasion,Enterprise
+T1602,Collection,Enterprise
+T1606,Credential Access,Enterprise
+T1608,Resource Development,Enterprise
+T1609,Execution,Enterprise
+T1610,"Defense Evasion, Execution",Enterprise
+T1611,Privilege Escalation,Enterprise
+T1612,Defense Evasion,Enterprise
+T1613,Discovery,Enterprise
+T1614,Discovery,Enterprise
+T1615,Discovery,Enterprise
+T1619,Discovery,Enterprise
+T1620,Defense Evasion,Enterprise
+T1621,Credential Access,Enterprise
+T1622,"Defense Evasion, Discovery",Enterprise
+T1647,Defense Evasion,Enterprise
+T1648,Execution,Enterprise
+T1649,Credential Access,Enterprise
+T1650,Resource Development,Enterprise
+T1651,Execution,Enterprise
+T1652,Discovery,Enterprise
+T1653,Persistence,Enterprise
+T1654,Discovery,Enterprise
+T1656,Defense Evasion,Enterprise
+T1657,Impact,Enterprise
+T1659,"Command and Control, Initial Access",Enterprise
+T1665,Command and Control,Enterprise
+T1666,Defense Evasion,Enterprise

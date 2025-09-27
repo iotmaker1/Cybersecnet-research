@@ -1,0 +1,31 @@
+technique_id,tactic_name,status,notes
+T1223,Execution,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1223,Defense Evasion,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1094,Command and Control,Deprecated,Merged into T1071 - Application Layer Protocol
+T1170,Execution,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1170,Defense Evasion,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1086,Execution,Deprecated,Now T1059.001 - PowerShell (sub-technique of Command and Scripting Interpreter)
+T1075,Credential Access,Deprecated,Now T1550.002 - Pass the Hash (sub-technique of Use Alternate Authentication Material)
+T1075,Lateral Movement,Deprecated,Now T1550.002 - Pass the Hash (sub-technique of Use Alternate Authentication Material)
+T1060,Persistence,Deprecated,Now T1547.001 - Registry Run Keys / Startup Folder (sub-technique)
+T1060,Privilege Escalation,Deprecated,Now T1547.001 - Registry Run Keys / Startup Folder (sub-technique)
+T1117,Execution,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1117,Defense Evasion,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1085,Execution,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1085,Defense Evasion,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1064,Execution,Deprecated,Merged into T1059 - Command and Scripting Interpreter
+T1064,Defense Evasion,Deprecated,Merged into T1059 - Command and Scripting Interpreter
+T1193,Initial Access,Deprecated,Now T1566.001 - Spearphishing Attachment (sub-technique of Phishing)
+T2038,N/A,Invalid,This ID does not exist in MITRE ATT&CK framework
+T1455,Defense Evasion,Deprecated,Legacy mobile technique - current mobile techniques use different numbering
+T1107,Defense Evasion,Deprecated,Now part of T1070 - Indicator Removal on Host
+T1483,Command and Control,Deprecated,Now part of T1568 - Dynamic Resolution
+T9000,N/A,Invalid,This appears to be a malware family name not a technique ID
+T1073,Persistence,Deprecated,Now part of T1574 - Hijack Execution Flow
+T1073,Privilege Escalation,Deprecated,Now part of T1574 - Hijack Execution Flow
+T1073,Defense Evasion,Deprecated,Now part of T1574 - Hijack Execution Flow
+T1191,Execution,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T1191,Defense Evasion,Deprecated,Now part of T1218 - System Binary Proxy Execution
+T2018,N/A,Invalid,This ID does not exist in MITRE ATT&CK framework
+T1888,N/A,Invalid,This ID does not exist in MITRE ATT&CK framework
+T1063,Execution,Deprecated,Now T1059.003 - Windows Command Shell (sub-technique)

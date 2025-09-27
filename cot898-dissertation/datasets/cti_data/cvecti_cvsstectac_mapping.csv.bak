@@ -1,0 +1,282 @@
+"CVE_ID",Tactics,ctatype,ctiscore,cvss,ttpID
+"CVE-2015-1701","Privilege Escalation",Cybercrime,2,"7.2",T1068
+"CVE-2015-1701","Privilege Escalation",APT,5,"7.2",T1134
+"CVE-2015-3113",Discovery,Malware,3,10,T1018
+"CVE-2015-3113","Defense Evasion",Malware,3,10,T1027
+"CVE-2015-3113",Discovery,Malware,3,10,T1049
+"CVE-2015-3113",Discovery,Malware,3,10,T1057
+"CVE-2015-3113",Discovery,APT,5,10,T1057
+"CVE-2015-3113",Discovery,Malware,3,10,T1083
+"CVE-2015-3113",Discovery,APT,5,10,T1087
+"CVE-2015-3113",Execution,APT,5,10,T1203
+"CVE-2015-3113","Defense Evasion, Discovery",Malware,3,10,T1497
+"CVE-2015-5119",Execution,APT,5,10,T1059
+"CVE-2015-5119","Defense Evasion",APT,5,10,T1070
+"CVE-2015-5119","Defense Evasion",Malware,3,10,T1107
+"CVE-2015-5374",Impact,Cybercrime,2,"7.8",T1499
+"CVE-2015-8651",Execution,Cybercrime,2,"9.3",T1203
+"CVE-2016-0167","Privilege Escalation",Cybercrime,2,"7.2",T1068
+"CVE-2016-1229",Execution,APT,5,"3.5",T2018
+"CVE-2016-6662","Initial Access",Cybercrime,2,10,T1190
+"CVE-2016-6662","Lateral Movement",APT,5,10,T1210
+"CVE-2016-7255","Privilege Escalation",APT,5,"7.2",T1068
+"CVE-2017-0005","Privilege Escalation",Cybercrime,2,"6.9",T1068
+"CVE-2017-0176","Lateral Movement",APT,5,"9.3",T1210
+"CVE-2017-7269","Initial Access",Cybercrime,2,10,T1190
+"CVE-2017-8625","Defense Evasion",Cybercrime,2,"6.8",T1223
+"CVE-2017-8625","Defense Evasion",Malware,3,"6.8",T1223
+"CVE-2017-8759","Defense Evasion",Malware,3,"9.3",T1064
+"CVE-2017-8759",Execution,Malware,3,"9.3",T1064
+"CVE-2017-8759","Defense Evasion",Malware,3,"9.3",T1073
+"CVE-2017-8759",Persistence,Malware,3,"9.3",T1073
+"CVE-2017-8759","Privilege Escalation",Malware,3,"9.3",T1073
+"CVE-2017-8759",Execution,APT,5,"9.3",T1086
+"CVE-2017-8759","Defense Evasion",Malware,3,"9.3",T1117
+"CVE-2017-8759","Defense Evasion",APT,5,"9.3",T1117
+"CVE-2017-8759",Execution,Malware,3,"9.3",T1117
+"CVE-2017-8759",Execution,APT,5,"9.3",T1117
+"CVE-2017-8759","Initial Access",Malware,3,"9.3",T1193
+"CVE-2017-8759","Defense Evasion",Malware,3,"9.3",T1218
+"CVE-2018-0798",Execution,Cybercrime,2,"9.3",T1203
+"CVE-2018-4878",Execution,Cybercrime,2,"7.5",T1203
+"CVE-2018-8174",Execution,Malware,3,"7.6",T1203
+"CVE-2019-0604",Execution,Cybercrime,2,"6.5",T1203
+"CVE-2019-0803","Privilege Escalation",Cybercrime,2,"7.2",T1068
+"CVE-2019-0859","Privilege Escalation",Cybercrime,2,"7.2",T1068
+"CVE-2019-5736","Privilege Escalation",Cybercrime,2,"9.3",T1068
+"CVE-2023-23397","Initial Access",APT,5,"9.8",T1190
+"CVE-2023-21608","Initial Access",APT,5,"8.8",T1190
+"CVE-2023-34362","Initial Access",Malware,3,"9.8",T1190
+"CVE-2023-27997","Initial Access",Malware,3,"9.8",T1190
+"CVE-2023-46805","Initial Access",APT,5,"8.2",T1190
+"CVE-2024-21887","Initial Access",APT,5,"9.1",T1190
+"CVE-2024-3400","Initial Access",Malware,5,10,T1190
+"CVE-2024-1709","Initial Access",Malware,5,10,T1190
+"CVE-2024-23113","Initial Access",Malware,5,"9.8",T1190
+"CVE-2022-40684","Initial Access",Malware,5,"9.6",T1190
+"CVE-2022-27518","Initial Access",Cybercrime,2,"9.8",T1190
+"CVE-2022-1388","Initial Access",APT,5,"9.8",T1190
+"CVE-2023-0669","Initial Access",Cybercrime,2,"7.2",T1190
+"CVE-2024-4577","Initial Access",Malware,3,"9.8",T1190
+"CVE-2024-5910","Initial Access",Malware,3,"9.3",T1190
+"CVE-2023-23397","Initial Access",APT,5,"9.8",T1078
+"CVE-2023-23397",Persistence,APT,5,"9.8",T1078
+"CVE-2024-21893","Privilege Escalation",APT,5,"7.5",T1078
+"CVE-2024-21893","Defense Evasion",APT,5,"7.5",T1078
+"CVE-2023-23397","Initial Access",APT,5,"9.8",T1566
+"CVE-2022-30190","Initial Access",APT,5,"7.8",T1566
+"CVE-2023-36884","Initial Access",APT,5,"8.3",T1566
+"CVE-2022-30190",Execution,APT,5,"7.8",T1203
+"CVE-2023-36884",Execution,Malware,3,"8.3",T1203
+"CVE-2024-30078",Execution,Malware,3,"8.8",T1203
+"CVE-2023-38831",Execution,Cybercrime,2,"7.8",T1203
+"CVE-2024-21412",Execution,APT,5,"8.1",T1203
+"CVE-2023-36802","Privilege Escalation",APT,5,"7.8",T1068
+"CVE-2023-36874","Privilege Escalation",APT,5,"7.8",T1068
+"CVE-2024-26229","Privilege Escalation",APT,5,7,T1068
+"CVE-2022-21882","Privilege Escalation",APT,5,7,T1068
+"CVE-2022-37969","Privilege Escalation",Malware,3,"7.8",T1068
+"CVE-2024-30088","Privilege Escalation",Malware,3,7,T1068
+"CVE-2024-38063","Privilege Escalation",APT,5,"9.8",T1068
+"CVE-2023-36802","Privilege Escalation",APT,5,"7.8",T1055
+"CVE-2023-36802","Defense Evasion",APT,5,"7.8",T1055
+"CVE-2024-26229","Privilege Escalation",APT,5,7,T1055
+"CVE-2024-26229","Defense Evasion",APT,5,7,T1055
+"CVE-2023-21608","Lateral Movement",APT,5,"8.8",T1021
+"CVE-2024-21887","Lateral Movement",APT,5,"9.1",T1021
+"CVE-2022-1388","Lateral Movement",APT,5,"9.8",T1021
+"CVE-2024-4577","Lateral Movement",Malware,3,"9.8",T1021
+"CVE-2023-27997","Lateral Movement",Malware,3,"9.8",T1210
+"CVE-2024-3400","Lateral Movement",Malware,3,10,T1210
+"CVE-2022-40684","Lateral Movement",Malware,3,"9.6",T1210
+"CVE-2024-23113","Lateral Movement",Malware,3,"9.8",T1210
+"CVE-2024-3400",Execution,Malware,3,10,T1059
+"CVE-2024-21887",Execution,APT,5,"9.1",T1059
+"CVE-2023-34362",Execution,Cybercrime,2,"9.8",T1059
+"CVE-2024-4577",Execution,Cybercrime,2,"9.8",T1059
+"CVE-2024-5910",Execution,Malware,3,"9.3",T1059
+"CVE-2023-34362",Impact,Cybercrime,2,"9.8",T1486
+"CVE-2023-27997",Impact,Cybercrime,2,"9.8",T1486
+"CVE-2024-3400",Impact,Cybercrime,2,10,T1486
+"CVE-2024-1709",Impact,Cybercrime,2,10,T1486
+"CVE-2023-46805","Initial Access",APT,5,"8.2",T1133
+"CVE-2023-46805",Persistence,APT,5,"8.2",T1133
+"CVE-2024-21887","Initial Access",APT,5,"9.1",T1133
+"CVE-2024-21887",Persistence,APT,5,"9.1",T1133
+"CVE-2024-1709","Initial Access",Cybercrime,2,10,T1133
+"CVE-2024-1709",Persistence,Cybercrime,2,10,T1133
+"CVE-2022-27518","Initial Access",Cybercrime,2,"9.8",T1133
+"CVE-2022-27518",Persistence,Cybercrime,2,"9.8",T1133
+"CVE-2023-34362",Collection,Malware,3,"9.8",T1005
+"CVE-2024-3400",Collection,Malware,3,10,T1005
+"CVE-2024-5910",Collection,Cybercrime,2,"9.3",T1005
+"CVE-2023-23397",Discovery,Cybercrime,2,"9.8",T1087
+"CVE-2024-21893",Discovery,APT,5,"7.5",T1087
+"CVE-2024-5910",Discovery,Cybercrime,2,"9.3",T1087
+"CVE-2022-40684",Discovery,Cybercrime,2,"9.6",T1083
+"CVE-2024-3400",Discovery,Cybercrime,2,10,T1083
+"CVE-2023-0669",Discovery,Malware,3,"7.2",T1083
+"CVE-2023-27997","Defense Evasion",Malware,3,"9.8",T1562
+"CVE-2024-23113","Defense Evasion",Malware,3,"9.8",T1562
+"CVE-2024-3400","Defense Evasion",Cybercrime,2,10,T1562
+"CVE-2022-21882",Persistence,Cybercrime,2,7,T1574
+"CVE-2022-21882","Privilege Escalation",Cybercrime,2,7,T1574
+"CVE-2022-21882","Defense Evasion",Cybercrime,2,7,T1574
+"CVE-2023-36802",Persistence,Cybercrime,2,"7.8",T1574
+"CVE-2023-36802","Privilege Escalation",Cybercrime,2,"7.8",T1574
+"CVE-2023-36802","Defense Evasion",Cybercrime,2,"7.8",T1574
+"CVE-2023-38831","Initial Access",Malware,3,"7.8",T1195
+"CVE-2024-23334","Initial Access",Cybercrime,2,"6.1",T1195
+"CVE-2024-4577","Initial Access",Malware,3,"9.8",T1195
+"CVE-2022-27518","Defense Evasion",Malware,3,"9.8",T1550
+"CVE-2022-27518","Lateral Movement",Malware,3,"9.8",T1550
+"CVE-2023-46805","Defense Evasion",APT,5,"8.2",T1550
+"CVE-2023-46805","Lateral Movement",APT,5,"8.2",T1550
+"CVE-2022-30190","Defense Evasion",APT,5,"7.8",T1027
+"CVE-2023-36884","Defense Evasion",APT,5,"8.3",T1027
+"CVE-2023-38831","Defense Evasion",Malware,3,"7.8",T1027
+"CVE-2023-36802","Privilege Escalation",Cybercrime,2,"7.8",T1134
+"CVE-2023-36802","Defense Evasion",Cybercrime,2,"7.8",T1134
+"CVE-2024-26229","Privilege Escalation",APT,5,7,T1134
+"CVE-2024-26229","Defense Evasion",APT,5,7,T1134
+"CVE-2022-30190","Defense Evasion",APT,5,"7.8",T1140
+"CVE-2023-38831","Defense Evasion",APT,5,"7.8",T1140
+"CVE-2024-21412","Defense Evasion",Cybercrime,2,"8.1",T1140
+"CVE-2023-38831","Defense Evasion",Cybercrime,2,"7.8",T1036
+"CVE-2024-1709","Defense Evasion",Cybercrime,2,10,T1036
+"CVE-2024-21412","Defense Evasion",Cybercrime,2,"8.1",T1036
+"CVE-2023-36874",Execution,Cybercrime,2,"7.8",T1569
+"CVE-2022-37969",Execution,Cybercrime,2,"7.8",T1569
+"CVE-2024-30088",Execution,Cybercrime,2,7,T1569
+"CVE-2023-34362",Exfiltration,Malware,3,"9.8",T1041
+"CVE-2024-3400",Exfiltration,Malware,3,10,T1041
+"CVE-2023-0669",Exfiltration,Malware,3,"7.2",T1041
+"CVE-2024-21893",Discovery,Malware,3,"7.5",T1016
+"CVE-2023-27997",Discovery,Malware,3,"9.8",T1016
+"CVE-2024-3400",Discovery,Malware,3,10,T1016
+"CVE-2024-3400",Discovery,APT,5,10,T1082
+"CVE-2022-40684",Discovery,Malware,3,"9.6",T1082
+"CVE-2024-38063",Discovery,Malware,3,"9.8",T1082
+"CVE-2023-27997","Defense Evasion",Malware,3,"9.8",T1070
+"CVE-2024-3400","Defense Evasion",Malware,3,10,T1070
+"CVE-2024-1709","Defense Evasion",Cybercrime,2,10,T1070
+"CVE-2024-1709","Command and Control",Cybercrime,2,10,T1105
+"CVE-2023-46805","Command and Control",APT,5,"8.2",T1105
+"CVE-2024-3400","Command and Control",Malware,3,10,T1105
+"CVE-2022-21882","Defense Evasion",APT,5,7,T1112
+"CVE-2023-36802","Defense Evasion",APT,5,"7.8",T1112
+"CVE-2024-30088","Defense Evasion",Malware,3,7,T1112
+"CVE-2023-23397","Credential Access",Malware,3,"9.8",T1003
+"CVE-2024-21893","Credential Access",Malware,3,"7.5",T1003
+"CVE-2024-5910","Credential Access",Malware,3,"9.3",T1003
+"CVE-2020-10148","Initial Access",APT,5,"9.8",T1195
+"CVE-2019-8452","Initial Access",APT,5,"6.5",T1195
+"CVE-2021-26855","Initial Access",APT,5,"9.8",T1190
+"CVE-2021-26857","Initial Access",APT,5,"7.8",T1190
+"CVE-2021-26858","Initial Access",APT,5,"7.8",T1190
+"CVE-2021-27065","Initial Access",APT,5,"7.8",T1190
+"CVE-2021-44228","Initial Access",Malware,3,10,T1190
+"CVE-2021-45046","Initial Access",Malware,3,9,T1190
+"CVE-2020-1472","Initial Access",APT,5,10,T1190
+"CVE-2021-34527","Initial Access",Malware,3,"8.8",T1190
+"CVE-2020-5902","Initial Access",Cybercrime,2,"9.8",T1190
+"CVE-2021-21972","Initial Access",APT,5,"9.8",T1190
+"CVE-2020-3992","Initial Access",Cybercrime,2,"9.8",T1190
+"CVE-2021-21985","Initial Access",APT,5,"9.8",T1190
+"CVE-2020-0688","Initial Access",APT,5,"8.8",T1190
+"CVE-2020-10148","Initial Access",APT,5,"9.8",T1566
+"CVE-2021-26855","Initial Access",APT,5,"9.8",T1566
+"CVE-2020-0674",Execution,APT,5,"7.5",T1203
+"CVE-2021-40444",Execution,APT,5,"8.8",T1203
+"CVE-2020-17087",Execution,Cybercrime,2,"7.8",T1203
+"CVE-2021-1675",Execution,Malware,3,"7.8",T1203
+"CVE-2021-44228",Execution,Malware,3,10,T1059
+"CVE-2021-26855",Execution,APT,5,"9.8",T1059
+"CVE-2021-34527",Execution,Malware,3,"8.8",T1059
+"CVE-2020-5902",Execution,Cybercrime,2,"9.8",T1059
+"CVE-2020-1472","Initial Access",APT,5,10,T1078
+"CVE-2020-1472",Persistence,APT,5,10,T1078
+"CVE-2020-1472","Privilege Escalation",APT,5,10,T1078
+"CVE-2020-1472","Defense Evasion",APT,5,10,T1078
+"CVE-2020-1472","Privilege Escalation",APT,5,10,T1068
+"CVE-2021-34527","Privilege Escalation",Malware,3,"8.8",T1068
+"CVE-2021-1675","Privilege Escalation",Malware,3,"7.8",T1068
+"CVE-2020-17087","Privilege Escalation",Cybercrime,2,"7.8",T1068
+"CVE-2021-31207","Privilege Escalation",APT,5,"6.3",T1068
+"CVE-2020-0796","Privilege Escalation",Cybercrime,2,10,T1068
+"CVE-2020-1472","Lateral Movement",APT,5,10,T1210
+"CVE-2021-34527","Lateral Movement",Malware,3,"8.8",T1210
+"CVE-2020-0796","Lateral Movement",Cybercrime,2,10,T1210
+"CVE-2021-21972","Lateral Movement",APT,5,"9.8",T1210
+"CVE-2020-5902","Initial Access",Cybercrime,2,"9.8",T1133
+"CVE-2020-5902",Persistence,Cybercrime,2,"9.8",T1133
+"CVE-2021-21972","Initial Access",APT,5,"9.8",T1133
+"CVE-2021-21972",Persistence,APT,5,"9.8",T1133
+"CVE-2020-0796","Lateral Movement",Cybercrime,2,10,T1021
+"CVE-2021-26855","Lateral Movement",APT,5,"9.8",T1021
+"CVE-2021-34527","Lateral Movement",Malware,3,"8.8",T1021
+"CVE-2021-26855",Collection,APT,5,"9.8",T1005
+"CVE-2020-10148",Collection,APT,5,"9.8",T1005
+"CVE-2021-44228",Collection,Malware,3,10,T1005
+"CVE-2021-26855",Collection,APT,5,"9.8",T1114
+"CVE-2021-26857",Collection,APT,5,"7.8",T1114
+"CVE-2020-0688",Collection,APT,5,"8.8",T1114
+"CVE-2020-1472",Discovery,APT,5,10,T1087
+"CVE-2021-26855",Discovery,APT,5,"9.8",T1087
+"CVE-2020-10148",Discovery,APT,5,"9.8",T1087
+"CVE-2021-26858",Discovery,APT,5,"7.8",T1083
+"CVE-2021-27065",Discovery,APT,5,"7.8",T1083
+"CVE-2021-44228",Discovery,Malware,3,10,T1083
+"CVE-2020-10148",Discovery,APT,5,"9.8",T1016
+"CVE-2021-21972",Discovery,APT,5,"9.8",T1016
+"CVE-2021-21985",Discovery,APT,5,"9.8",T1016
+"CVE-2021-44228",Discovery,Malware,3,10,T1082
+"CVE-2020-10148",Discovery,APT,5,"9.8",T1082
+"CVE-2020-5902",Discovery,Cybercrime,2,"9.8",T1082
+"CVE-2020-10148","Command and Control",APT,5,"9.8",T1105
+"CVE-2021-26855","Command and Control",APT,5,"9.8",T1105
+"CVE-2021-44228","Command and Control",Malware,3,10,T1105
+"CVE-2020-10148","Defense Evasion",APT,5,"9.8",T1562
+"CVE-2021-34527","Defense Evasion",Malware,3,"8.8",T1562
+"CVE-2021-44228","Defense Evasion",Malware,3,10,T1562
+"CVE-2020-10148","Defense Evasion",APT,5,"9.8",T1070
+"CVE-2021-26855","Defense Evasion",APT,5,"9.8",T1070
+"CVE-2021-44228","Defense Evasion",Malware,3,10,T1070
+"CVE-2021-34527",Persistence,Malware,3,"8.8",T1574
+"CVE-2021-34527","Privilege Escalation",Malware,3,"8.8",T1574
+"CVE-2021-34527","Defense Evasion",Malware,3,"8.8",T1574
+"CVE-2021-34527",Execution,Malware,3,"8.8",T1569
+"CVE-2021-1675",Execution,Malware,3,"7.8",T1569
+"CVE-2020-17087",Execution,Cybercrime,2,"7.8",T1569
+"CVE-2020-17087","Privilege Escalation",Cybercrime,2,"7.8",T1055
+"CVE-2020-17087","Defense Evasion",Cybercrime,2,"7.8",T1055
+"CVE-2021-40444","Privilege Escalation",APT,5,"8.8",T1055
+"CVE-2021-40444","Defense Evasion",APT,5,"8.8",T1055
+"CVE-2020-10148",Exfiltration,APT,5,"9.8",T1041
+"CVE-2021-26855",Exfiltration,APT,5,"9.8",T1041
+"CVE-2021-44228",Exfiltration,Malware,3,10,T1041
+"CVE-2020-1472","Credential Access",APT,5,10,T1003
+"CVE-2021-26855","Credential Access",APT,5,"9.8",T1003
+"CVE-2020-10148","Credential Access",APT,5,"9.8",T1003
+"CVE-2020-17087","Privilege Escalation",Cybercrime,2,"7.8",T1134
+"CVE-2020-17087","Defense Evasion",Cybercrime,2,"7.8",T1134
+"CVE-2020-1472","Privilege Escalation",APT,5,10,T1134
+"CVE-2020-1472","Defense Evasion",APT,5,10,T1134
+"CVE-2020-0674","Defense Evasion",APT,5,"7.5",T1027
+"CVE-2021-40444","Defense Evasion",APT,5,"8.8",T1027
+"CVE-2020-10148","Defense Evasion",APT,5,"9.8",T1027
+"CVE-2021-40444","Defense Evasion",APT,5,"8.8",T1140
+"CVE-2020-0674","Defense Evasion",APT,5,"7.5",T1140
+"CVE-2021-44228","Defense Evasion",Malware,3,10,T1140
+"CVE-2020-10148","Command and Control",APT,5,"9.8",T1071
+"CVE-2021-44228","Command and Control",Malware,3,10,T1071
+"CVE-2021-26855","Command and Control",APT,5,"9.8",T1071
+"CVE-2021-34527",Impact,Malware,3,"8.8",T1486
+"CVE-2021-44228",Impact,Malware,3,10,T1486
+"CVE-2020-5902",Impact,Malware,3,"9.8",T1486
+"CVE-2020-17087","Defense Evasion",Cybercrime,2,"7.8",T1112
+"CVE-2021-1675","Defense Evasion",Malware,3,"7.8",T1112
+"CVE-2021-34527","Defense Evasion",Malware,3,"8.8",T1112
+"CVE-2020-10148","Defense Evasion",APT,5,"9.8",T1036
+"CVE-2021-40444","Defense Evasion",APT,5,"8.8",T1036
+"CVE-2020-0674","Defense Evasion",APT,5,"7.5",T1036

@@ -1,0 +1,126 @@
+CVE_ID,cvss,ttpID,Tactics,ctiscore,ctatype
+CVE-2023-23397,9.8,T1190,Initial Access,5,APT
+CVE-2023-21608,8.8,T1190,Initial Access,5,APT
+CVE-2023-34362,9.8,T1190,Initial Access,3,Malware
+CVE-2023-27997,9.8,T1190,Initial Access,3,Malware
+CVE-2023-46805,8.2,T1190,Initial Access,5,APT
+CVE-2024-21887,9.1,T1190,Initial Access,5,APT
+CVE-2024-3400,10,T1190,Initial Access,5,Malware
+CVE-2024-1709,10,T1190,Initial Access,5,Malware
+CVE-2024-23113,9.8,T1190,Initial Access,5,Malware
+CVE-2022-40684,9.6,T1190,Initial Access,5,Malware
+CVE-2022-27518,9.8,T1190,Initial Access,2,Cybercrime
+CVE-2022-1388,9.8,T1190,Initial Access,5,APT
+CVE-2023-0669,7.2,T1190,Initial Access,2,Cybercrime
+CVE-2024-4577,9.8,T1190,Initial Access,3,Malware
+CVE-2024-5910,9.3,T1190,Initial Access,3,Malware
+CVE-2023-23397,9.8,T1078,Initial Access,5,APT
+CVE-2023-23397,9.8,T1078,Persistence,5,APT
+CVE-2024-21893,7.5,T1078,Privilege Escalation,5,APT
+CVE-2024-21893,7.5,T1078,Defense Evasion,5,APT
+CVE-2023-23397,9.8,T1566,Initial Access,5,APT
+CVE-2022-30190,7.8,T1566,Initial Access,5,APT
+CVE-2023-36884,8.3,T1566,Initial Access,5,APT
+CVE-2022-30190,7.8,T1203,Execution,5,APT
+CVE-2023-36884,8.3,T1203,Execution,3,Malware
+CVE-2024-30078,8.8,T1203,Execution,3,Malware
+CVE-2023-38831,7.8,T1203,Execution,2,Cybercrime
+CVE-2024-21412,8.1,T1203,Execution,5,APT
+CVE-2023-36802,7.8,T1068,Privilege Escalation,5,APT
+CVE-2023-36874,7.8,T1068,Privilege Escalation,5,APT
+CVE-2024-26229,7,T1068,Privilege Escalation,5,APT
+CVE-2022-21882,7,T1068,Privilege Escalation,5,APT
+CVE-2022-37969,7.8,T1068,Privilege Escalation,3,Malware
+CVE-2024-30088,7,T1068,Privilege Escalation,3,Malware
+CVE-2024-38063,9.8,T1068,Privilege Escalation,5,APT
+CVE-2023-36802,7.8,T1055,Privilege Escalation,5,APT
+CVE-2023-36802,7.8,T1055,Defense Evasion,5,APT
+CVE-2024-26229,7,T1055,Privilege Escalation,5,APT
+CVE-2024-26229,7,T1055,Defense Evasion,5,APT
+CVE-2023-21608,8.8,T1021,Lateral Movement,5,APT
+CVE-2024-21887,9.1,T1021,Lateral Movement,5,APT
+CVE-2022-1388,9.8,T1021,Lateral Movement,5,APT
+CVE-2024-4577,9.8,T1021,Lateral Movement,3,Malware
+CVE-2023-27997,9.8,T1210,Lateral Movement,3,Malware
+CVE-2024-3400,10,T1210,Lateral Movement,3,Malware
+CVE-2022-40684,9.6,T1210,Lateral Movement,3,Malware
+CVE-2024-23113,9.8,T1210,Lateral Movement,3,Malware
+CVE-2024-3400,10,T1059,Execution,3,Malware
+CVE-2024-21887,9.1,T1059,Execution,5,APT
+CVE-2023-34362,9.8,T1059,Execution,2,Cybercrime
+CVE-2024-4577,9.8,T1059,Execution,2,Cybercrime
+CVE-2024-5910,9.3,T1059,Execution,3,Malware
+CVE-2023-34362,9.8,T1486,Impact,2,Cybercrime
+CVE-2023-27997,9.8,T1486,Impact,2,Cybercrime
+CVE-2024-3400,10,T1486,Impact,2,Cybercrime
+CVE-2024-1709,10,T1486,Impact,2,Cybercrime
+CVE-2023-46805,8.2,T1133,Initial Access,5,APT
+CVE-2023-46805,8.2,T1133,Persistence,5,APT
+CVE-2024-21887,9.1,T1133,Initial Access,5,APT
+CVE-2024-21887,9.1,T1133,Persistence,5,APT
+CVE-2024-1709,10,T1133,Initial Access,2,Cybercrime
+CVE-2024-1709,10,T1133,Persistence,2,Cybercrime
+CVE-2022-27518,9.8,T1133,Initial Access,2,Cybercrime
+CVE-2022-27518,9.8,T1133,Persistence,2,Cybercrime
+CVE-2023-34362,9.8,T1005,Collection,3,Malware
+CVE-2024-3400,10,T1005,Collection,3,Malware
+CVE-2024-5910,9.3,T1005,Collection,2,Cybercrime
+CVE-2023-23397,9.8,T1087,Discovery,2,Cybercrime
+CVE-2024-21893,7.5,T1087,Discovery,5,APT
+CVE-2024-5910,9.3,T1087,Discovery,2,Cybercrime
+CVE-2022-40684,9.6,T1083,Discovery,2,Cybercrime
+CVE-2024-3400,10,T1083,Discovery,2,Cybercrime
+CVE-2023-0669,7.2,T1083,Discovery,3,Malware
+CVE-2023-27997,9.8,T1562,Defense Evasion,3,Malware
+CVE-2024-23113,9.8,T1562,Defense Evasion,3,Malware
+CVE-2024-3400,10,T1562,Defense Evasion,2,Cybercrime
+CVE-2022-21882,7,T1574,Persistence,2,Cybercrime
+CVE-2022-21882,7,T1574,Privilege Escalation,2,Cybercrime
+CVE-2022-21882,7,T1574,Defense Evasion,2,Cybercrime
+CVE-2023-36802,7.8,T1574,Persistence,2,Cybercrime
+CVE-2023-36802,7.8,T1574,Privilege Escalation,2,Cybercrime
+CVE-2023-36802,7.8,T1574,Defense Evasion,2,Cybercrime
+CVE-2023-38831,7.8,T1195,Initial Access,3,Malware
+CVE-2024-23334,6.1,T1195,Initial Access,2,Cybercrime
+CVE-2024-4577,9.8,T1195,Initial Access,3,Malware
+CVE-2022-27518,9.8,T1550,Defense Evasion,3,Malware
+CVE-2022-27518,9.8,T1550,Lateral Movement,3,Malware
+CVE-2023-46805,8.2,T1550,Defense Evasion,5,APT
+CVE-2023-46805,8.2,T1550,Lateral Movement,5,APT
+CVE-2022-30190,7.8,T1027,Defense Evasion,5,APT
+CVE-2023-36884,8.3,T1027,Defense Evasion,5,APT
+CVE-2023-38831,7.8,T1027,Defense Evasion,3,Malware
+CVE-2023-36802,7.8,T1134,Privilege Escalation,2,Cybercrime
+CVE-2023-36802,7.8,T1134,Defense Evasion,2,Cybercrime
+CVE-2024-26229,7,T1134,Privilege Escalation,5,APT
+CVE-2024-26229,7,T1134,Defense Evasion,5,APT
+CVE-2022-30190,7.8,T1140,Defense Evasion,5,APT
+CVE-2023-38831,7.8,T1140,Defense Evasion,5,APT
+CVE-2024-21412,8.1,T1140,Defense Evasion,2,Cybercrime
+CVE-2023-38831,7.8,T1036,Defense Evasion,2,Cybercrime
+CVE-2024-1709,10,T1036,Defense Evasion,2,Cybercrime
+CVE-2024-21412,8.1,T1036,Defense Evasion,2,Cybercrime
+CVE-2023-36874,7.8,T1569,Execution,2,Cybercrime
+CVE-2022-37969,7.8,T1569,Execution,2,Cybercrime
+CVE-2024-30088,7,T1569,Execution,2,Cybercrime
+CVE-2023-34362,9.8,T1041,Exfiltration,3,Malware
+CVE-2024-3400,10,T1041,Exfiltration,3,Malware
+CVE-2023-0669,7.2,T1041,Exfiltration,3,Malware
+CVE-2024-21893,7.5,T1016,Discovery,3,Malware
+CVE-2023-27997,9.8,T1016,Discovery,3,Malware
+CVE-2024-3400,10,T1016,Discovery,3,Malware
+CVE-2024-3400,10,T1082,Discovery,5,APT
+CVE-2022-40684,9.6,T1082,Discovery,3,Malware
+CVE-2024-38063,9.8,T1082,Discovery,3,Malware
+CVE-2023-27997,9.8,T1070,Defense Evasion,3,Malware
+CVE-2024-3400,10,T1070,Defense Evasion,3,Malware
+CVE-2024-1709,10,T1070,Defense Evasion,2,Cybercrime
+CVE-2024-1709,10,T1105,Command and Control,2,Cybercrime
+CVE-2023-46805,8.2,T1105,Command and Control,5,APT
+CVE-2024-3400,10,T1105,Command and Control,3,Malware
+CVE-2022-21882,7,T1112,Defense Evasion,5,APT
+CVE-2023-36802,7.8,T1112,Defense Evasion,5,APT
+CVE-2024-30088,7,T1112,Defense Evasion,3,Malware
+CVE-2023-23397,9.8,T1003,Credential Access,3,Malware
+CVE-2024-21893,7.5,T1003,Credential Access,3,Malware
+CVE-2024-5910,9.3,T1003,Credential Access,3,Malware
