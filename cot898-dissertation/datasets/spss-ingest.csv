@@ -1,4 +1,4 @@
-"CVE_ID",Tactics,Tag,ctatype,ctiscore,cvss,iscore,ttpID,ttppercent
+vulnerability,mitre-tactic,intrusion,threat,threat-score,vulnerability-score,intrusion-score,mitre-technique,tactic-risk-%
 "CVE-2023-23397","Initial Access","directory traversal",APT,5,"9.8",2,T1190,"41.28"
 "CVE-2023-21608","Initial Access","directory traversal",APT,5,"8.8",2,T1190,"41.28"
 "CVE-2023-21608","Initial Access","log forging",APT,5,"8.8",3,T1190,"41.28"
