@@ -1,0 +1,15 @@
+Sequence,Tactic_ID,Tactic_Name,Description
+1,TA0043,Reconnaissance,Gather information about target
+2,TA0042,Resource Development,Establish resources for operations
+3,TA0001,Initial Access,Get foothold in target network
+4,TA0002,Execution,Run malicious code on target systems
+5,TA0003,Persistence,Maintain access across restarts
+6,TA0004,Privilege Escalation,Gain higher-level permissions
+7,TA0005,Defense Evasion,Avoid detection by security controls
+8,TA0006,Credential Access,Steal usernames and passwords
+9,TA0007,Discovery,Learn about target environment
+10,TA0008,Lateral Movement,Move through target network
+11,TA0009,Collection,Gather data of interest
+12,TA0011,Command and Control,Communicate with compromised systems
+13,TA0010,Exfiltration,Steal data from target
+14,TA0040,Impact,Manipulate disrupt or destroy systems
